@@ -1,41 +1,28 @@
-[12:07:26] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[12:07:28] [ServerMain/INFO]: Loaded 7 recipes
-[12:07:29] [ServerMain/INFO]: Loaded 1271 advancements
-[12:07:30] [Server thread/INFO]: Starting minecraft server version 1.20.2
-[12:07:30] [Server thread/INFO]: Loading properties
-[12:07:30] [Server thread/INFO]: Default game type: SURVIVAL
-[12:07:30] [Server thread/INFO]: Generating keypair
-[12:07:30] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:07:30] [Server thread/INFO]: Using default channel type
-[12:07:30] [Server thread/INFO]: Preparing level "world"
-[12:07:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:07:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[12:07:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[12:07:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[12:07:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[12:07:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[12:07:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[12:07:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[12:07:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:07:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[12:07:38] [Worker-Main-3/INFO]: Preparing spawn area: 42%
-[12:07:38] [Server thread/INFO]: Time elapsed: 5009 ms
-[12:07:38] [Server thread/INFO]: Done (8.067s)! For help, type "help"
-[12:08:56] [User Authenticator #1/INFO]: UUID of player lolzkinijntjes is e9785d74-0ad7-49a5-89d8-5547d0c6ecd7
-[12:08:56] [Server thread/INFO]: lolzkinijntjes[/127.0.0.1:52784] logged in with entity id 78 at (-1981.6838629362876, 73.0, -3687.9677037219585)
-[12:08:56] [Server thread/INFO]: lolzkinijntjes joined the game
-[12:08:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2483ms or 49 ticks behind
-[12:42:42] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 73 block(s)]
-[13:47:18] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 125 block(s)]
-[13:50:14] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[13:50:14] [Server thread/INFO]: lolzkinijntjes left the game
-[13:50:23] [Server thread/INFO]: Stopping server
-[13:50:23] [Server thread/INFO]: Saving players
-[13:50:23] [Server thread/INFO]: Saving worlds
-[13:50:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[13:50:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[13:50:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[13:50:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:50:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:50:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:50:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:04:37] [Server thread/INFO]: [TotallyLucy126: Set the time to 1000]
+[00:05:03] [Server thread/INFO]: [lolzkinijntjes: Applied effect Night Vision to TotallyLucy126]
+[00:05:14] [Server thread/INFO]: [lolzkinijntjes: Applied effect Night Vision to lolzkinijntjes]
+[00:11:10] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 125 block(s)]
+[00:13:10] [Server thread/INFO]: [lolzkinijntjes: Set the weather to rain]
+[00:43:54] [Server thread/INFO]: [lolzkinijntjes: Set the world spawn point to -1958, 73, -3699 [0.0]]
+[01:07:49] [Server thread/INFO]: [TotallyLucy126: Set the time to 13000]
+[01:10:21] [Server thread/INFO]: TotallyLucy126 has made the advancement [Hot Stuff]
+[01:35:46] [Server thread/INFO]: lolzkinijntjes has made the advancement [Sweet Dreams]
+[01:36:27] [Server thread/INFO]: TotallyLucy126 has made the advancement [Sweet Dreams]
+[01:43:04] [Server thread/INFO]: lolzkinijntjes was killed
+[01:43:04] [Server thread/INFO]: [lolzkinijntjes: Killed lolzkinijntjes]
+[01:47:37] [Server thread/INFO]: [lolzkinijntjes: Played sound minecraft:ambient.cave to lolzkinijntjes]
+[01:47:42] [Server thread/INFO]: [lolzkinijntjes: Played sound minecraft:ambient.cave to 2 players]
+[01:47:54] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[01:47:54] [Server thread/INFO]: TotallyLucy126 left the game
+[01:47:56] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
+[01:47:56] [Server thread/INFO]: lolzkinijntjes left the game
+[01:48:19] [Server thread/INFO]: Stopping server
+[01:48:19] [Server thread/INFO]: Saving players
+[01:48:19] [Server thread/INFO]: Saving worlds
+[01:48:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:48:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:48:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:48:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:48:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:48:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:48:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
