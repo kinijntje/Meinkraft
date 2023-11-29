@@ -1496,12 +1496,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2023-11-28 21:14:47 +0100"
-    },
-    "done": true
-  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2023-11-28 20:57:30 +0100"
@@ -1514,21 +1508,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2023-11-28 20:57:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2023-11-28 21:00:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2023-11-28 21:00:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2023-11-28 21:00:27 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2023-11-28 21:03:09 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
+  "minecraft:recipes/misc/coal": {
     "criteria": {
-      "has_spider_eye": "2023-11-29 00:57:26 +0100"
+      "has_coal_block": "2023-11-28 21:12:12 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
+  "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
-      "has_string": "2023-11-29 00:57:26 +0100"
+      "has_coal": "2023-11-28 21:12:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2023-11-28 21:14:47 +0100"
     },
     "done": true
   },
@@ -1544,27 +1568,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bricks": {
+  "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
-      "has_brick": "2023-11-28 21:00:27 +0100"
+      "has_snowball": "2023-11-28 21:15:23 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal": {
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
     "criteria": {
-      "has_coal_block": "2023-11-28 21:12:12 +0100"
+      "has_cobbled_deepslate_slab": "2023-11-28 21:21:08 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/tools/fishing_rod": {
+  "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "has_string": "2023-11-29 00:57:26 +0100"
+      "cooked_beef": "2023-11-28 21:26:38 +0100"
     },
-    "done": true
+    "done": false
   },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
+  "minecraft:recipes/decorations/grindstone": {
     "criteria": {
-      "has_string": "2023-11-29 00:57:26 +0100"
+      "has_stone_slab": "2023-11-28 22:24:43 +0100"
     },
     "done": true
   },
@@ -1580,63 +1604,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2023-11-29 00:57:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2023-11-29 00:57:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2023-11-29 00:57:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2023-11-29 00:57:26 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2023-11-29 00:57:26 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_deepslate": {
-    "criteria": {
-      "has_cobbled_deepslate_slab": "2023-11-28 21:21:08 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_chestplate": "2023-11-28 20:57:30 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2023-11-28 22:24:43 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/flower_pot": {
-    "criteria": {
-      "has_brick": "2023-11-28 21:00:27 +0100"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cooked_beef": "2023-11-28 21:26:38 +0100"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2023-11-29 00:57:26 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2023-11-28 21:12:21 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/snow_block": {
-    "criteria": {
-      "has_snowball": "2023-11-28 21:15:23 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2023-11-28 21:00:27 +0100"
     },
     "done": true
   },
