@@ -1,12 +1,43 @@
-[00:04:58] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[00:04:58] [Server thread/INFO]: lolzkinijntjes left the game
-[00:06:58] [Server thread/INFO]: Stopping server
-[00:06:58] [Server thread/INFO]: Saving players
-[00:06:58] [Server thread/INFO]: Saving worlds
-[00:06:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:07:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:07:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:07:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:07:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:07:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:07:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:01:35] [Server thread/INFO]: [TotallyLucy126: Gave 64 [Oak Log] to TotallyLucy126]
+[00:02:43] [Server thread/INFO]: [lolzkinijntjes: Gave 32 [Cobbled Deepslate Slab] to lolzkinijntjes]
+[00:03:04] [Server thread/INFO]: [TotallyLucy126: Gave 4 [Stonecutter] to TotallyLucy126]
+[00:03:42] [Server thread/INFO]: [TotallyLucy126: Gave 4 [Grindstone] to TotallyLucy126]
+[00:08:02] [Server thread/INFO]: [TotallyLucy126: Set own game mode to Creative Mode]
+[00:08:10] [Server thread/INFO]: [lolzkinijntjes: Set the time to 1000]
+[00:09:50] [Server thread/INFO]: [TotallyLucy126: Set own game mode to Spectator Mode]
+[00:09:55] [Server thread/INFO]: [TotallyLucy126: Set own game mode to Survival Mode]
+[00:14:17] [Server thread/INFO]: [TotallyLucy126: Gave 64 [Dark Oak Trapdoor] to TotallyLucy126]
+[00:18:44] [Server thread/INFO]: [lolzkinijntjes: Set the time to 1000]
+[00:18:44] [Server thread/INFO]: [TotallyLucy126: Set the time to 1000]
+[00:20:03] [Server thread/INFO]: [lolzkinijntjes: Gave 64 [Dark Oak Slab] to lolzkinijntjes]
+[00:22:24] [Server thread/INFO]: [lolzkinijntjes: Gave 32 [Cobbled Deepslate Slab] to lolzkinijntjes]
+[00:27:02] [Server thread/INFO]: [lolzkinijntjes: Gave 32 [Cobbled Deepslate Slab] to lolzkinijntjes]
+[00:28:57] [Server thread/INFO]: [TotallyLucy126: Set the time to 1000]
+[00:44:25] [Server thread/INFO]: [lolzkinijntjes: Gave 32 [Cobbled Deepslate Slab] to lolzkinijntjes]
+[00:47:36] [Server thread/INFO]: [TotallyLucy126: Gave 64 [Birch Leaves] to TotallyLucy126]
+[00:47:42] [Server thread/INFO]: [lolzkinijntjes: Gave 12 [Torch] to lolzkinijntjes]
+[00:48:49] [Server thread/INFO]: [lolzkinijntjes: Gave 32 [Deepslate Brick Slab] to lolzkinijntjes]
+[00:48:59] [Server thread/INFO]: [lolzkinijntjes: Gave 12 [Item Frame] to lolzkinijntjes]
+[00:50:31] [Server thread/INFO]: [TotallyLucy126: Set own game mode to Creative Mode]
+[00:51:31] [Server thread/INFO]: [lolzkinijntjes: Gave 48 [Dark Oak Slab] to lolzkinijntjes]
+[00:51:50] [Server thread/INFO]: [TotallyLucy126: Set own game mode to Survival Mode]
+[00:51:58] [Server thread/INFO]: [TotallyLucy126: Set the time to 1000]
+[00:55:20] [Server thread/INFO]: [lolzkinijntjes: Set the time to 13000]
+[00:59:46] [Server thread/INFO]: TotallyLucy126 has made the advancement [Take Aim]
+[01:02:35] [Server thread/INFO]: [TotallyLucy126: Set the time to 1000]
+[01:09:16] [Server thread/INFO]: [lolzkinijntjes: Gave 4 [Birch Trapdoor] to lolzkinijntjes]
+[01:09:51] [Server thread/INFO]: [lolzkinijntjes: Gave 4 [Oak Trapdoor] to lolzkinijntjes]
+[01:11:32] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
+[01:11:32] [Server thread/INFO]: lolzkinijntjes left the game
+[01:11:33] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[01:11:33] [Server thread/INFO]: TotallyLucy126 left the game
+[01:11:50] [Server thread/INFO]: Stopping server
+[01:11:50] [Server thread/INFO]: Saving players
+[01:11:50] [Server thread/INFO]: Saving worlds
+[01:11:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:11:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:11:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:11:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:11:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:11:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:11:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
