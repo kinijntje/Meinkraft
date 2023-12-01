@@ -1,43 +1,78 @@
-[00:01:35] [Server thread/INFO]: [TotallyLucy126: Gave 64 [Oak Log] to TotallyLucy126]
-[00:02:43] [Server thread/INFO]: [lolzkinijntjes: Gave 32 [Cobbled Deepslate Slab] to lolzkinijntjes]
-[00:03:04] [Server thread/INFO]: [TotallyLucy126: Gave 4 [Stonecutter] to TotallyLucy126]
-[00:03:42] [Server thread/INFO]: [TotallyLucy126: Gave 4 [Grindstone] to TotallyLucy126]
-[00:08:02] [Server thread/INFO]: [TotallyLucy126: Set own game mode to Creative Mode]
-[00:08:10] [Server thread/INFO]: [lolzkinijntjes: Set the time to 1000]
-[00:09:50] [Server thread/INFO]: [TotallyLucy126: Set own game mode to Spectator Mode]
-[00:09:55] [Server thread/INFO]: [TotallyLucy126: Set own game mode to Survival Mode]
-[00:14:17] [Server thread/INFO]: [TotallyLucy126: Gave 64 [Dark Oak Trapdoor] to TotallyLucy126]
-[00:18:44] [Server thread/INFO]: [lolzkinijntjes: Set the time to 1000]
-[00:18:44] [Server thread/INFO]: [TotallyLucy126: Set the time to 1000]
-[00:20:03] [Server thread/INFO]: [lolzkinijntjes: Gave 64 [Dark Oak Slab] to lolzkinijntjes]
-[00:22:24] [Server thread/INFO]: [lolzkinijntjes: Gave 32 [Cobbled Deepslate Slab] to lolzkinijntjes]
-[00:27:02] [Server thread/INFO]: [lolzkinijntjes: Gave 32 [Cobbled Deepslate Slab] to lolzkinijntjes]
-[00:28:57] [Server thread/INFO]: [TotallyLucy126: Set the time to 1000]
-[00:44:25] [Server thread/INFO]: [lolzkinijntjes: Gave 32 [Cobbled Deepslate Slab] to lolzkinijntjes]
-[00:47:36] [Server thread/INFO]: [TotallyLucy126: Gave 64 [Birch Leaves] to TotallyLucy126]
-[00:47:42] [Server thread/INFO]: [lolzkinijntjes: Gave 12 [Torch] to lolzkinijntjes]
-[00:48:49] [Server thread/INFO]: [lolzkinijntjes: Gave 32 [Deepslate Brick Slab] to lolzkinijntjes]
-[00:48:59] [Server thread/INFO]: [lolzkinijntjes: Gave 12 [Item Frame] to lolzkinijntjes]
-[00:50:31] [Server thread/INFO]: [TotallyLucy126: Set own game mode to Creative Mode]
-[00:51:31] [Server thread/INFO]: [lolzkinijntjes: Gave 48 [Dark Oak Slab] to lolzkinijntjes]
-[00:51:50] [Server thread/INFO]: [TotallyLucy126: Set own game mode to Survival Mode]
-[00:51:58] [Server thread/INFO]: [TotallyLucy126: Set the time to 1000]
-[00:55:20] [Server thread/INFO]: [lolzkinijntjes: Set the time to 13000]
-[00:59:46] [Server thread/INFO]: TotallyLucy126 has made the advancement [Take Aim]
-[01:02:35] [Server thread/INFO]: [TotallyLucy126: Set the time to 1000]
-[01:09:16] [Server thread/INFO]: [lolzkinijntjes: Gave 4 [Birch Trapdoor] to lolzkinijntjes]
-[01:09:51] [Server thread/INFO]: [lolzkinijntjes: Gave 4 [Oak Trapdoor] to lolzkinijntjes]
-[01:11:32] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[01:11:32] [Server thread/INFO]: lolzkinijntjes left the game
-[01:11:33] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
-[01:11:33] [Server thread/INFO]: TotallyLucy126 left the game
-[01:11:50] [Server thread/INFO]: Stopping server
-[01:11:50] [Server thread/INFO]: Saving players
-[01:11:50] [Server thread/INFO]: Saving worlds
-[01:11:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:11:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:11:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:11:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:11:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:11:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:11:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:56:19] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:56:20] [ServerMain/INFO]: Loaded 7 recipes
+[16:56:21] [ServerMain/INFO]: Loaded 1271 advancements
+[16:56:22] [Server thread/INFO]: Starting minecraft server version 1.20.2
+[16:56:22] [Server thread/INFO]: Loading properties
+[16:56:22] [Server thread/INFO]: Default game type: SURVIVAL
+[16:56:22] [Server thread/INFO]: Generating keypair
+[16:56:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:56:22] [Server thread/INFO]: Using default channel type
+[16:56:22] [Server thread/INFO]: Preparing level "world"
+[16:56:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:56:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:56:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:56:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:56:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:56:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:56:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:56:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:56:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:56:29] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[16:56:29] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[16:56:30] [Worker-Main-2/INFO]: Preparing spawn area: 85%
+[16:56:30] [Server thread/INFO]: Time elapsed: 5171 ms
+[16:56:30] [Server thread/INFO]: Done (7.943s)! For help, type "help"
+[16:56:33] [User Authenticator #1/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
+[16:56:34] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:53881] logged in with entity id 317 at (-1930.1662184876498, 69.0, -3632.8380258739635)
+[16:56:34] [Server thread/INFO]: TotallyLucy126 joined the game
+[16:57:02] [Server thread/INFO]: [TotallyLucy126: Set the time to 1000]
+[17:07:08] [Server thread/INFO]: [TotallyLucy126: Set the time to 1000]
+[17:11:25] [Server thread/WARN]: Mismatch in destroy block pos: gw{x=-1895, y=75, z=-3622} gw{x=-1895, y=72, z=-3620}
+[17:16:34] [Server thread/INFO]: [TotallyLucy126: Set the time to 1000]
+[17:25:22] [Server thread/INFO]: [TotallyLucy126: Set the time to 1000]
+[17:28:10] [Server thread/INFO]: [TotallyLucy126: Gave 3 [Campfire] to TotallyLucy126]
+[17:45:31] [Server thread/INFO]: [TotallyLucy126: Set the time to 1000]
+[17:51:44] [User Authenticator #2/INFO]: UUID of player lolzkinijntjes is e9785d74-0ad7-49a5-89d8-5547d0c6ecd7
+[17:51:45] [Server thread/INFO]: lolzkinijntjes[/127.0.0.1:60745] logged in with entity id 8088 at (-1922.8143293987184, 75.0, -3710.4158199570525)
+[17:51:45] [Server thread/INFO]: lolzkinijntjes joined the game
+[17:52:04] [Server thread/INFO]: <lolzkinijntjes> yohoho
+[17:52:09] [Server thread/INFO]: <TotallyLucy126> oj
+[17:52:29] [Server thread/INFO]: <lolzkinijntjes> wanne discord?
+[17:52:36] [Server thread/INFO]: <TotallyLucy126> sure
+[17:55:09] [Server thread/INFO]: [lolzkinijntjes: Gave 2 [Dark Oak Slab] to lolzkinijntjes]
+[17:55:35] [Server thread/INFO]: [TotallyLucy126: Set the time to 1000]
+[17:55:36] [Server thread/INFO]: [lolzkinijntjes: Gave 2 [Oak Slab] to lolzkinijntjes]
+[17:55:47] [Server thread/INFO]: [lolzkinijntjes: Gave 32 [Oak Slab] to lolzkinijntjes]
+[17:57:05] [Server thread/INFO]: [TotallyLucy126: Gave 64 [Cobbled Deepslate] to TotallyLucy126]
+[18:02:01] [Server thread/WARN]: Mismatch in destroy block pos: gw{x=-1904, y=74, z=-3617} gw{x=-1902, y=73, z=-3617}
+[18:05:30] [Server thread/INFO]: [lolzkinijntjes: Gave 64 [Spruce Log] to lolzkinijntjes]
+[18:05:37] [Server thread/INFO]: [TotallyLucy126: Set the time to 1000]
+[18:09:19] [Server thread/INFO]: [lolzkinijntjes: Gave 42 [Dark Oak Slab] to lolzkinijntjes]
+[18:14:03] [Server thread/INFO]: [lolzkinijntjes: Gave 42 [Dark Oak Slab] to lolzkinijntjes]
+[18:15:04] [Server thread/INFO]: [lolzkinijntjes: Gave 42 [Spruce Slab] to lolzkinijntjes]
+[18:15:45] [Server thread/INFO]: [TotallyLucy126: Set the time to 1000]
+[18:21:21] [Server thread/INFO]: [lolzkinijntjes: Gave 20 [Oak Trapdoor] to lolzkinijntjes]
+[18:26:26] [Server thread/INFO]: [lolzkinijntjes: Set the time to 1000]
+[18:30:38] [Server thread/INFO]: [lolzkinijntjes: Gave 1 [Lectern] to lolzkinijntjes]
+[18:32:11] [Server thread/INFO]: [lolzkinijntjes: Gave 1 [Book] to lolzkinijntjes]
+[18:33:09] [Server thread/INFO]: [lolzkinijntjes: Gave 1 [Feather] to lolzkinijntjes]
+[18:33:19] [Server thread/INFO]: [lolzkinijntjes: Gave 1 [Ink Sac] to lolzkinijntjes]
+[18:35:00] [Server thread/INFO]: [lolzkinijntjes: Gave 1 [Barrel] to lolzkinijntjes]
+[18:36:47] [Server thread/INFO]: [TotallyLucy126: Set the time to 1000]
+[18:40:26] [Server thread/INFO]: [TotallyLucy126: Gave 64 [Cobbled Deepslate] to TotallyLucy126]
+[18:42:19] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[18:42:19] [Server thread/INFO]: TotallyLucy126 left the game
+[18:42:33] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
+[19:53:31] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Survival Mode]
+[19:53:34] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
+[19:53:34] [Server thread/INFO]: lolzkinijntjes left the game
+[19:53:44] [Server thread/INFO]: Stopping server
+[19:53:44] [Server thread/INFO]: Saving players
+[19:53:44] [Server thread/INFO]: Saving worlds
+[19:53:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:53:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:53:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:53:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:53:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:53:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:53:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

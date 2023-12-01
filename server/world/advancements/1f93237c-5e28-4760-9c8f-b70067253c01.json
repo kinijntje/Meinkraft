@@ -1676,12 +1676,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2023-12-01 00:59:46 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2023-11-30 23:49:42 +0100"
@@ -1689,6 +1683,12 @@
     "done": true
   },
   "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2023-11-30 23:49:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2023-11-30 23:49:42 +0100"
     },
@@ -1706,9 +1706,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_button": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "has_planks": "2023-11-30 23:49:42 +0100"
+      "shot_arrow": "2023-12-01 00:59:46 +0100"
     },
     "done": true
   },
