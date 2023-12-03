@@ -793,10 +793,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2023-12-02 16:48:12 +0100",
       "minecraft:skeleton": "2023-11-27 01:22:51 +0100",
       "minecraft:phantom": "2023-11-26 23:45:35 +0100",
       "minecraft:spider": "2023-11-29 00:57:25 +0100",
-      "minecraft:zombie": "2023-11-28 21:15:59 +0100"
+      "minecraft:zombie": "2023-11-28 21:15:59 +0100",
+      "minecraft:creeper": "2023-12-02 20:36:17 +0100"
     },
     "done": false
   },
@@ -1709,6 +1711,36 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2023-12-01 00:59:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2023-12-02 16:48:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2023-12-02 20:42:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2023-12-02 20:42:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2023-12-02 22:01:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2023-12-02 22:01:03 +0100"
     },
     "done": true
   },

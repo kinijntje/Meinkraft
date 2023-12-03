@@ -1,41 +1,16 @@
-[01:01:09] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:01:10] [ServerMain/INFO]: Loaded 7 recipes
-[01:01:11] [ServerMain/INFO]: Loaded 1271 advancements
-[01:01:12] [Server thread/INFO]: Starting minecraft server version 1.20.2
-[01:01:12] [Server thread/INFO]: Loading properties
-[01:01:12] [Server thread/INFO]: Default game type: SURVIVAL
-[01:01:12] [Server thread/INFO]: Generating keypair
-[01:01:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:01:12] [Server thread/INFO]: Using default channel type
-[01:01:12] [Server thread/INFO]: Preparing level "world"
-[01:01:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:01:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:01:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:01:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:01:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:01:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:01:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:01:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:01:18] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[01:01:19] [Server thread/INFO]: Time elapsed: 4145 ms
-[01:01:19] [Server thread/INFO]: Done (6.534s)! For help, type "help"
-[01:10:53] [User Authenticator #1/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
-[01:10:54] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:55158] logged in with entity id 322 at (-1897.477272526576, 77.0, -3633.369360185498)
-[01:10:54] [Server thread/INFO]: TotallyLucy126 joined the game
-[01:14:16] [Server thread/INFO]: [TotallyLucy126: Gave 64 [Dark Oak Trapdoor] to TotallyLucy126]
-[01:14:22] [Server thread/INFO]: [TotallyLucy126: Set the time to 1000]
-[01:24:32] [Server thread/INFO]: [TotallyLucy126: Set the time to 1000]
-[01:33:12] [Server thread/INFO]: TotallyLucy126 fell from a high place
-[01:34:40] [Server thread/INFO]: [TotallyLucy126: Set the time to 1000]
-[01:40:46] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
-[01:40:47] [Server thread/INFO]: TotallyLucy126 left the game
-[01:41:10] [Server thread/INFO]: Stopping server
-[01:41:10] [Server thread/INFO]: Saving players
-[01:41:10] [Server thread/INFO]: Saving worlds
-[01:41:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:41:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:41:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:41:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:41:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:41:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:41:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:08:45] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Survival Mode]
+[00:13:54] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
+[00:42:23] [Server thread/INFO]: [lolzkinijntjes: Set the weather to rain]
+[01:23:09] [Server thread/INFO]: [lolzkinijntjes: Set the weather to rain]
+[01:31:25] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
+[01:31:25] [Server thread/INFO]: lolzkinijntjes left the game
+[01:31:35] [Server thread/INFO]: Stopping server
+[01:31:35] [Server thread/INFO]: Saving players
+[01:31:35] [Server thread/INFO]: Saving worlds
+[01:31:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:31:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:31:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:31:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:31:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:31:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:31:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
