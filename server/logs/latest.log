@@ -1,23 +1,16 @@
-[00:01:21] [Server thread/INFO]: [lolzkinijntjes: Applied enchantment Mending to lolzkinijntjes's item]
-[00:01:29] [Server thread/INFO]: [lolzkinijntjes: Applied enchantment Mending to lolzkinijntjes's item]
-[00:02:02] [Server thread/WARN]: Player TotallyLucy126 just tried to change non-editable sign
-[00:20:04] [Server thread/INFO]: lolzkinijntjes has completed the challenge [Sniper Duel]
-[00:31:56] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 86 block(s)]
-[00:33:53] [Server thread/INFO]: [TotallyLucy126: Set the weather to rain & thunder]
-[00:45:09] [Server thread/INFO]: [TotallyLucy126: Set the time to 1000]
-[00:48:56] [Server thread/INFO]: [lolzkinijntjes: Set the weather to rain]
-[00:49:01] [Server thread/INFO]: [lolzkinijntjes: Set the time to 13000]
-[00:51:28] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
-[00:51:28] [Server thread/INFO]: TotallyLucy126 left the game
-[00:51:28] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[00:51:28] [Server thread/INFO]: lolzkinijntjes left the game
-[00:53:12] [Server thread/INFO]: Stopping server
-[00:53:12] [Server thread/INFO]: Saving players
-[00:53:12] [Server thread/INFO]: Saving worlds
-[00:53:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:53:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:53:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:53:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:53:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:53:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:53:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:16:12] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[00:29:23] [Server thread/INFO]: [TotallyLucy126: Gave 1 [Barrier] to TotallyLucy126]
+[00:41:22] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[00:41:22] [Server thread/INFO]: TotallyLucy126 left the game
+[00:41:26] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
+[00:41:26] [Server thread/INFO]: lolzkinijntjes left the game
+[00:41:50] [Server thread/INFO]: Stopping server
+[00:41:50] [Server thread/INFO]: Saving players
+[00:41:50] [Server thread/INFO]: Saving worlds
+[00:41:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:41:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:41:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:41:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:41:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:41:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:41:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
