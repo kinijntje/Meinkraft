@@ -1,64 +1,36 @@
-[22:22:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:23:00] [ServerMain/INFO]: Loaded 7 recipes
-[22:23:00] [ServerMain/INFO]: Loaded 1271 advancements
-[22:23:02] [Server thread/INFO]: Starting minecraft server version 1.20.3
-[22:23:02] [Server thread/INFO]: Loading properties
-[22:23:02] [Server thread/INFO]: Default game type: SURVIVAL
-[22:23:02] [Server thread/INFO]: Generating keypair
-[22:23:02] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:23:02] [Server thread/INFO]: Using default channel type
-[22:23:03] [Server thread/INFO]: Preparing level "world"
-[22:23:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:23:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:23:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:23:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:23:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:23:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:23:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:23:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:23:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:23:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:23:16] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:23:16] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:23:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:23:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:23:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:23:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:23:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:23:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:23:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:23:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:23:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:23:19] [Worker-Main-1/INFO]: Preparing spawn area: 34%
-[22:23:20] [Server thread/INFO]: Time elapsed: 10735 ms
-[22:23:20] [Server thread/INFO]: Done (17.033s)! For help, type "help"
-[22:23:33] [User Authenticator #1/INFO]: UUID of player lolzkinijntjes is e9785d74-0ad7-49a5-89d8-5547d0c6ecd7
-[22:23:34] [Server thread/INFO]: lolzkinijntjes[/127.0.0.1:61375] logged in with entity id 332 at (-1952.7734185666907, 70.0, -3632.508463695256)
-[22:23:34] [Server thread/INFO]: lolzkinijntjes joined the game
-[22:24:23] [Server thread/INFO]: [@: Teleported lolzkinijntjes to -1953.660000, 68.760000, -3631.000000]
-[22:24:35] [Server thread/INFO]: [@: Teleported lolzkinijntjes to -1953.660000, 100.000000, -3631.000000]
-[22:26:14] [Server thread/INFO]: lolzkinijntjes was killed
-[22:26:14] [Server thread/INFO]: [lolzkinijntjes: Killed lolzkinijntjes]
-[22:36:35] [Server thread/INFO]: [lolzkinijntjes: Teleported lolzkinijntjes to 2400.500000, 100.000000, -4599.500000]
-[22:36:35] [Server thread/WARN]: lolzkinijntjes moved too quickly! 3522.2283661975653,-47.09924805751072,-882.3693583549602
-[22:37:42] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 11 block(s)]
-[22:38:42] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 5 block(s)]
-[22:39:29] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 6 block(s)]
-[22:39:43] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 6 block(s)]
-[22:46:13] [Server thread/INFO]: [@: Teleported lolzkinijntjes to -1953.660000, 100.000000, -3631.000000]
-[22:47:11] [Server thread/INFO]: [@: Teleported lolzkinijntjes to 2406.500000, 194.000000, -4599.500000]
-[22:47:23] [Server thread/INFO]: [@: Teleported lolzkinijntjes to -1953.660000, 100.000000, -3631.000000]
-[22:47:57] [Server thread/INFO]: [@: Teleported lolzkinijntjes to 2406.500000, 194.000000, -4599.500000]
-[22:48:23] [Server thread/INFO]: [@: Teleported lolzkinijntjes to -1953.500000, 70.000000, -3653.500000]
-[22:49:27] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[22:49:27] [Server thread/INFO]: lolzkinijntjes left the game
-[22:49:44] [Server thread/INFO]: Stopping server
-[22:49:44] [Server thread/INFO]: Saving players
-[22:49:44] [Server thread/INFO]: Saving worlds
-[22:49:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:49:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:49:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:49:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:49:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:49:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:49:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:37:14] [Server thread/INFO]: [TotallyLucy126: Set the weather to clear]
+[00:40:41] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 109 block(s)]
+[00:42:19] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 259 block(s)]
+[00:56:00] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
+[00:56:15] [Server thread/INFO]: [TotallyLucy126: Set own game mode to Spectator Mode]
+[00:56:42] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
+[00:57:14] [Server thread/INFO]: [TotallyLucy126: Set own game mode to Creative Mode]
+[00:57:28] [Server thread/INFO]: TotallyLucy126 has made the advancement [Acquire Hardware]
+[00:57:52] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 1229 block(s)]
+[00:57:57] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
+[00:58:22] [Server thread/WARN]: TotallyLucy126 moved too quickly! -4.686626891940932,1.116501367928123,9.062088050829061
+[00:58:55] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 2740 block(s)]
+[00:59:04] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
+[00:59:36] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
+[01:01:17] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
+[01:05:34] [Server thread/INFO]: [TotallyLucy126: Set the weather to rain]
+[01:06:01] [Server thread/WARN]: TotallyLucy126 moved too quickly! -5.038967880197333,0.3298248521514324,-8.717432141346308
+[01:12:59] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[01:12:59] [Server thread/INFO]: TotallyLucy126 left the game
+[01:13:03] [User Authenticator #3/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
+[01:13:04] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:58093] logged in with entity id 22082 at (-1973.0700243238791, 80.17222084187128, -3721.313058858828)
+[01:13:04] [Server thread/INFO]: TotallyLucy126 joined the game
+[01:16:44] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
+[01:16:44] [Server thread/INFO]: lolzkinijntjes left the game
+[01:16:46] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[01:16:46] [Server thread/INFO]: TotallyLucy126 left the game
+[01:16:54] [Server thread/INFO]: Stopping server
+[01:16:54] [Server thread/INFO]: Saving players
+[01:16:54] [Server thread/INFO]: Saving worlds
+[01:16:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:16:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:16:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:16:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:16:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:16:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:16:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
