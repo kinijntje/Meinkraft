@@ -1,36 +1,14 @@
-[00:37:14] [Server thread/INFO]: [TotallyLucy126: Set the weather to clear]
-[00:40:41] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 109 block(s)]
-[00:42:19] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 259 block(s)]
-[00:56:00] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
-[00:56:15] [Server thread/INFO]: [TotallyLucy126: Set own game mode to Spectator Mode]
-[00:56:42] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
-[00:57:14] [Server thread/INFO]: [TotallyLucy126: Set own game mode to Creative Mode]
-[00:57:28] [Server thread/INFO]: TotallyLucy126 has made the advancement [Acquire Hardware]
-[00:57:52] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 1229 block(s)]
-[00:57:57] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
-[00:58:22] [Server thread/WARN]: TotallyLucy126 moved too quickly! -4.686626891940932,1.116501367928123,9.062088050829061
-[00:58:55] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 2740 block(s)]
-[00:59:04] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
-[00:59:36] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
-[01:01:17] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
-[01:05:34] [Server thread/INFO]: [TotallyLucy126: Set the weather to rain]
-[01:06:01] [Server thread/WARN]: TotallyLucy126 moved too quickly! -5.038967880197333,0.3298248521514324,-8.717432141346308
-[01:12:59] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
-[01:12:59] [Server thread/INFO]: TotallyLucy126 left the game
-[01:13:03] [User Authenticator #3/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
-[01:13:04] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:58093] logged in with entity id 22082 at (-1973.0700243238791, 80.17222084187128, -3721.313058858828)
-[01:13:04] [Server thread/INFO]: TotallyLucy126 joined the game
-[01:16:44] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[01:16:44] [Server thread/INFO]: lolzkinijntjes left the game
-[01:16:46] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
-[01:16:46] [Server thread/INFO]: TotallyLucy126 left the game
-[01:16:54] [Server thread/INFO]: Stopping server
-[01:16:54] [Server thread/INFO]: Saving players
-[01:16:54] [Server thread/INFO]: Saving worlds
-[01:16:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:16:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:16:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:16:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:16:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:16:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:16:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:20:09] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[01:20:09] [Server thread/INFO]: TotallyLucy126 left the game
+[01:20:11] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
+[01:20:11] [Server thread/INFO]: lolzkinijntjes left the game
+[01:20:36] [Server thread/INFO]: Stopping server
+[01:20:36] [Server thread/INFO]: Saving players
+[01:20:36] [Server thread/INFO]: Saving worlds
+[01:20:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:20:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:20:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:20:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:20:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:20:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:20:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
