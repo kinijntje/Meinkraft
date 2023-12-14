@@ -1,12 +1,73 @@
-[00:34:10] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[00:34:10] [Server thread/INFO]: lolzkinijntjes left the game
-[00:34:16] [Server thread/INFO]: Stopping server
-[00:34:16] [Server thread/INFO]: Saving players
-[00:34:16] [Server thread/INFO]: Saving worlds
-[00:34:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:34:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:34:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:34:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:34:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:34:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:34:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:50:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:50:22] [ServerMain/INFO]: Loaded 7 recipes
+[18:50:23] [ServerMain/INFO]: Loaded 1271 advancements
+[18:50:24] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[18:50:24] [Server thread/INFO]: Loading properties
+[18:50:24] [Server thread/INFO]: Default game type: SURVIVAL
+[18:50:24] [Server thread/INFO]: Generating keypair
+[18:50:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:50:24] [Server thread/INFO]: Using default channel type
+[18:50:24] [Server thread/INFO]: Preparing level "world"
+[18:50:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:50:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:50:30] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:50:30] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:50:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:50:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:50:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:50:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:50:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:50:31] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:50:31] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:50:32] [Worker-Main-1/INFO]: Preparing spawn area: 42%
+[18:50:32] [Server thread/INFO]: Time elapsed: 5404 ms
+[18:50:32] [Server thread/INFO]: Done (8.048s)! For help, type "help"
+[19:15:34] [User Authenticator #1/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
+[19:15:35] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:52045] logged in with entity id 242 at (-1969.8303063119695, 73.43337546922226, -3648.699999988079)
+[19:15:35] [Server thread/INFO]: TotallyLucy126 joined the game
+[19:31:39] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[19:37:31] [Server thread/INFO]: [TotallyLucy126: Set own game mode to Survival Mode]
+[19:37:53] [Server thread/INFO]: [TotallyLucy126: Set own game mode to Creative Mode]
+[20:02:46] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[20:18:46] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[20:24:46] [Server thread/WARN]: TotallyLucy126 moved too quickly! 8.02502780770783,2.994426627447183,5.239455810507934
+[20:50:06] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[20:50:41] [Server thread/INFO]: [TotallyLucy126: Set the weather to clear]
+[20:57:07] [User Authenticator #2/INFO]: UUID of player lolzkinijntjes is e9785d74-0ad7-49a5-89d8-5547d0c6ecd7
+[20:57:08] [Server thread/INFO]: lolzkinijntjes[/127.0.0.1:59096] logged in with entity id 13191 at (2436.827465865143, 203.63038803423743, -4606.094540065399)
+[20:57:08] [Server thread/INFO]: lolzkinijntjes joined the game
+[20:57:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[20:57:39] [Server thread/INFO]: <lolzkinijntjes> hyohyohoyohoo
+[20:58:02] [Server thread/INFO]: <TotallyLucy126> aeugh
+[20:58:30] [Server thread/INFO]: <lolzkinijntjes> discord?•◘○
+[21:00:43] [Server thread/INFO]: [@: Teleported lolzkinijntjes to -1953.500000, 70.000000, -3653.500000]
+[21:19:29] [Server thread/INFO]: [@: Teleported lolzkinijntjes to 2406.500000, 194.000000, -4599.500000]
+[21:27:48] [Server thread/INFO]: [TotallyLucy126: Set the weather to clear]
+[21:33:15] [Server thread/INFO]: [lolzkinijntjes: Gave 1 [Barrier] to lolzkinijntjes]
+[21:33:45] [Server thread/INFO]: [lolzkinijntjes: Gave 1 [Barrier] to lolzkinijntjes]
+[21:36:45] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 456 block(s)]
+[21:41:43] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[21:43:10] [Server thread/INFO]: [@: Teleported lolzkinijntjes to -1953.500000, 70.000000, -3653.500000]
+[21:43:48] [Server thread/INFO]: /141.98.11.60:33998 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(16) + length(8) exceeds writerIndex(16): PooledUnsafeDirectByteBuf(ridx: 16, widx: 16, cap: 16)
+[21:44:02] [Server thread/INFO]: [@: Teleported lolzkinijntjes to 2441.500000, 200.000000, -4606.500000]
+[22:30:14] [Server thread/INFO]: [@: Teleported lolzkinijntjes to -1953.500000, 70.000000, -3653.500000]
+[22:30:21] [Server thread/INFO]: [@: Teleported lolzkinijntjes to 2441.500000, 200.000000, -4606.500000]
+[22:37:45] [Server thread/INFO]: [lolzkinijntjes: Set the time to 1000]
+[22:45:21] [Server thread/INFO]: [@: Teleported TotallyLucy126 to 2441.500000, 200.000000, -4606.500000]
+[22:46:24] [Server thread/INFO]: [@: Teleported TotallyLucy126 to -1953.500000, 70.000000, -3653.500000]
+[22:46:25] [Server thread/INFO]: [@: Teleported lolzkinijntjes to -1953.500000, 70.000000, -3653.500000]
+[22:48:10] [Server thread/INFO]: [lolzkinijntjes: Set the weather to rain]
+[22:49:54] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[22:49:54] [Server thread/INFO]: TotallyLucy126 left the game
+[22:51:12] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
+[22:51:12] [Server thread/INFO]: lolzkinijntjes left the game
+[22:51:26] [Server thread/INFO]: Stopping server
+[22:51:26] [Server thread/INFO]: Saving players
+[22:51:26] [Server thread/INFO]: Saving worlds
+[22:51:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:51:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:51:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:51:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:51:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:51:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:51:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
