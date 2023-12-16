@@ -1,19 +1,14 @@
-[00:00:46] [User Authenticator #1/INFO]: UUID of player lolzkinijntjes is e9785d74-0ad7-49a5-89d8-5547d0c6ecd7
-[00:00:47] [Server thread/INFO]: lolzkinijntjes[/127.0.0.1:57677] logged in with entity id 373 at (-1950.1993664475976, 91.25133955971474, -3682.972695669553)
-[00:00:47] [Server thread/INFO]: lolzkinijntjes joined the game
-[00:00:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
-[00:01:24] [Server thread/INFO]: [@: Teleported lolzkinijntjes to 2441.500000, 200.000000, -4606.500000]
-[00:14:40] [Server thread/INFO]: [lolzkinijntjes: Set the weather to clear]
-[00:46:28] [Server thread/INFO]: [lolzkinijntjes: Set the weather to clear]
-[01:47:02] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[01:47:03] [Server thread/INFO]: lolzkinijntjes left the game
-[01:47:12] [Server thread/INFO]: Stopping server
-[01:47:12] [Server thread/INFO]: Saving players
-[01:47:12] [Server thread/INFO]: Saving worlds
-[01:47:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:47:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:47:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:47:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:47:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:47:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:47:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:03:23] [Server thread/INFO]: [@: Teleported lolzkinijntjes to 2441.500000, 200.000000, -4606.500000]
+[00:35:13] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 1123 block(s)]
+[00:36:02] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
+[00:36:02] [Server thread/INFO]: lolzkinijntjes left the game
+[00:36:08] [Server thread/INFO]: Stopping server
+[00:36:08] [Server thread/INFO]: Saving players
+[00:36:08] [Server thread/INFO]: Saving worlds
+[00:36:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:36:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:36:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:36:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:36:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:36:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:36:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

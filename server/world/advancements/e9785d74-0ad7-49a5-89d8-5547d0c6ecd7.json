@@ -3914,9 +3914,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2023-12-16 01:09:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
     "criteria": {
       "has_log": "2023-12-16 01:24:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2023-12-16 01:24:48 +0100"
     },
     "done": true
   },
@@ -3926,21 +3938,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_gold": {
-    "criteria": {
-      "has_raw_gold_block": "2023-12-16 01:09:37 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crimson_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2023-12-16 01:37:48 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/warped_hanging_sign": {
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
     "criteria": {
-      "has_stripped_logs": "2023-12-16 01:24:48 +0100"
+      "has_mangrove_roots": "2023-12-17 00:04:13 +0100"
     },
     "done": true
   },
