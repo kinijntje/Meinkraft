@@ -1,15 +1,11 @@
-[00:35:14] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
-[00:35:14] [Server thread/INFO]: TotallyLucy126 left the game
-[00:39:59] [Server thread/INFO]: [lolzkinijntjes: Set the time to 1000]
-[00:40:04] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[00:40:04] [Server thread/INFO]: lolzkinijntjes left the game
-[00:40:08] [Server thread/INFO]: Stopping server
-[00:40:08] [Server thread/INFO]: Saving players
-[00:40:08] [Server thread/INFO]: Saving worlds
-[00:40:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:40:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:40:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:40:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:40:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:40:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:40:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:04:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20057ms or 401 ticks behind
+[01:07:51] [Server thread/INFO]: Stopping server
+[01:07:51] [Server thread/INFO]: Saving players
+[01:07:51] [Server thread/INFO]: Saving worlds
+[01:07:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:07:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:07:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:07:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:07:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:07:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:07:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
