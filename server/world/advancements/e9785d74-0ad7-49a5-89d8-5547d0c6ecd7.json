@@ -3950,5 +3950,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-03-02 00:52:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-03-01 23:49:27 +0100"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
