@@ -1,18 +1,199 @@
-[00:03:05] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
-[00:03:12] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
-[00:54:11] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
-[00:55:26] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
-[01:00:27] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[01:00:27] [Server thread/INFO]: lolzkinijntjes left the game
-[01:00:28] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
-[01:00:28] [Server thread/INFO]: TotallyLucy126 left the game
-[01:00:41] [Server thread/INFO]: Stopping server
-[01:00:41] [Server thread/INFO]: Saving players
-[01:00:41] [Server thread/INFO]: Saving worlds
-[01:00:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:00:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:00:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:00:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:00:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:00:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:00:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:36:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:36:18] [ServerMain/INFO]: Loaded 7 recipes
+[14:36:18] [ServerMain/INFO]: Loaded 1271 advancements
+[14:36:20] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[14:36:20] [Server thread/INFO]: Loading properties
+[14:36:20] [Server thread/INFO]: Default game type: SURVIVAL
+[14:36:20] [Server thread/INFO]: Generating keypair
+[14:36:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:36:20] [Server thread/INFO]: Using default channel type
+[14:36:20] [Server thread/INFO]: Preparing level "world"
+[14:36:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:36:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:36:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:36:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:36:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:36:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:36:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:36:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:36:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:36:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:36:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:36:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:36:30] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[14:36:30] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[14:36:31] [Worker-Main-2/INFO]: Preparing spawn area: 11%
+[14:36:31] [Worker-Main-3/INFO]: Preparing spawn area: 26%
+[14:36:32] [Server thread/INFO]: Time elapsed: 7565 ms
+[14:36:32] [Server thread/INFO]: Done (11.195s)! For help, type "help"
+[14:44:32] [User Authenticator #1/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
+[14:44:33] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:64372] logged in with entity id 359 at (-1939.8253263538825, 75.0, -3715.1951092365143)
+[14:44:33] [Server thread/INFO]: TotallyLucy126 joined the game
+[14:45:51] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[14:56:46] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[14:58:03] [Server thread/INFO]: [TotallyLucy126: Set the weather to rain]
+[15:07:38] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[15:20:41] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[15:51:45] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[16:42:56] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[16:54:43] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[17:04:29] [User Authenticator #2/INFO]: UUID of player lolzkinijntjes is e9785d74-0ad7-49a5-89d8-5547d0c6ecd7
+[17:04:30] [Server thread/INFO]: lolzkinijntjes[/127.0.0.1:61049] logged in with entity id 24666 at (-1943.6784316966061, 77.30868704277303, -3696.071486729884)
+[17:04:30] [Server thread/INFO]: lolzkinijntjes joined the game
+[17:04:58] [Server thread/INFO]: <lolzkinijntjes> gjelllooooo
+[17:05:03] [Server thread/INFO]: <TotallyLucy126> eeee
+[17:13:29] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
+[17:21:24] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
+[17:24:38] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
+[17:25:00] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
+[17:25:04] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
+[17:25:09] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
+[17:26:48] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 25 block(s)]
+[17:28:25] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 25 block(s)]
+[17:35:59] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
+[17:36:32] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
+[17:36:45] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 1144 block(s)]
+[17:36:48] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
+[17:37:35] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
+[17:40:16] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
+[17:41:30] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
+[17:41:47] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
+[17:42:38] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 21376 block(s)]
+[17:43:05] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
+[17:45:39] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
+[17:46:18] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 2566 block(s)]
+[17:46:30] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
+[17:46:54] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
+[17:47:31] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
+[17:48:18] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
+[17:49:11] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
+[17:56:37] [Server thread/INFO]: lolzkinijntjes has made the advancement [Who is Cutting Onions?]
+[18:00:07] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
+[18:00:29] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
+[18:18:12] [Server thread/WARN]: TotallyLucy126 moved too quickly! -1.3918246626583368,3.0174961198797945,-9.517356796651711
+[18:21:22] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
+[18:21:54] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
+[18:37:06] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
+[18:37:35] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 1460 block(s)]
+[18:37:50] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
+[18:43:36] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
+[18:50:43] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 2499 block(s)]
+[18:51:52] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
+[18:55:02] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 1359 block(s)]
+[19:02:22] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
+[19:02:22] [Server thread/INFO]: lolzkinijntjes left the game
+[19:25:02] [Server thread/INFO]: TotallyLucy126 lost connection: Timed out
+[19:25:02] [Server thread/INFO]: TotallyLucy126 left the game
+[19:27:07] [User Authenticator #3/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
+[19:27:08] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:49190] logged in with entity id 52737 at (-1927.5394022988824, 67.73527211699337, -3876.7804328306374)
+[19:27:08] [Server thread/INFO]: TotallyLucy126 joined the game
+[19:50:07] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[19:50:07] [Server thread/INFO]: TotallyLucy126 left the game
+[19:50:12] [User Authenticator #4/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
+[19:50:13] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:49319] logged in with entity id 55893 at (-1917.668844084649, 68.02448167377699, -3865.314196674022)
+[19:50:13] [Server thread/INFO]: TotallyLucy126 joined the game
+[19:52:45] [Server thread/INFO]: TotallyLucy126 lost connection: Timed out
+[19:52:45] [Server thread/INFO]: TotallyLucy126 left the game
+[19:53:14] [User Authenticator #5/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
+[19:53:14] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:49327] logged in with entity id 56229 at (-1917.668844084649, 68.02448167377699, -3865.314196674022)
+[19:53:14] [Server thread/INFO]: TotallyLucy126 joined the game
+[19:56:48] [Server thread/WARN]: TotallyLucy126 moved too quickly! 0.7368001422887573,6.677107669045256,8.160146904781413
+[20:05:56] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[20:20:04] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[20:42:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:42:53] [Server thread/INFO]: #help<--[HERE]
+[20:42:59] [Server thread/INFO]: /advancement (grant|revoke)
+[20:42:59] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[20:42:59] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[20:42:59] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[20:42:59] [Server thread/INFO]: /clear [<targets>]
+[20:42:59] [Server thread/INFO]: /clone (<begin>|from)
+[20:42:59] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
+[20:42:59] [Server thread/INFO]: /data (merge|get|remove|modify)
+[20:42:59] [Server thread/INFO]: /datapack (enable|disable|list)
+[20:42:59] [Server thread/INFO]: /debug (start|stop|function)
+[20:42:59] [Server thread/INFO]: /defaultgamemode <gamemode>
+[20:42:59] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[20:42:59] [Server thread/INFO]: /effect (clear|give)
+[20:42:59] [Server thread/INFO]: /me <action>
+[20:42:59] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[20:42:59] [Server thread/INFO]: /experience (add|set|query)
+[20:42:59] [Server thread/INFO]: /xp -> experience
+[20:42:59] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[20:42:59] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
+[20:42:59] [Server thread/INFO]: /forceload (add|remove|query)
+[20:42:59] [Server thread/INFO]: /function <name> [<arguments>|with]
+[20:42:59] [Server thread/INFO]: /gamemode <gamemode> [<target>]
+[20:42:59] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[20:42:59] [Server thread/INFO]: /give <targets> <item> [<count>]
+[20:42:59] [Server thread/INFO]: /help [<command>]
+[20:42:59] [Server thread/INFO]: /item (replace|modify)
+[20:42:59] [Server thread/INFO]: /kick <targets> [<reason>]
+[20:42:59] [Server thread/INFO]: /kill [<targets>]
+[20:42:59] [Server thread/INFO]: /list [uuids]
+[20:42:59] [Server thread/INFO]: /locate (structure|biome|poi)
+[20:42:59] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[20:42:59] [Server thread/INFO]: /msg <targets> <message>
+[20:42:59] [Server thread/INFO]: /tell -> msg
+[20:42:59] [Server thread/INFO]: /w -> msg
+[20:42:59] [Server thread/INFO]: /particle <name> [<pos>]
+[20:42:59] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
+[20:42:59] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[20:42:59] [Server thread/INFO]: /random (value|roll|reset)
+[20:42:59] [Server thread/INFO]: /reload
+[20:42:59] [Server thread/INFO]: /recipe (give|take)
+[20:42:59] [Server thread/INFO]: /return (<value>|fail|run)
+[20:42:59] [Server thread/INFO]: /ride <target> (mount|dismount)
+[20:42:59] [Server thread/INFO]: /say <message>
+[20:42:59] [Server thread/INFO]: /schedule (function|clear)
+[20:42:59] [Server thread/INFO]: /scoreboard (objectives|players)
+[20:42:59] [Server thread/INFO]: /seed
+[20:42:59] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[20:42:59] [Server thread/INFO]: /spawnpoint [<targets>]
+[20:42:59] [Server thread/INFO]: /setworldspawn [<pos>]
+[20:42:59] [Server thread/INFO]: /spectate [<target>]
+[20:42:59] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[20:42:59] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[20:42:59] [Server thread/INFO]: /summon <entity> [<pos>]
+[20:42:59] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[20:42:59] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[20:42:59] [Server thread/INFO]: /teammsg <message>
+[20:42:59] [Server thread/INFO]: /tm -> teammsg
+[20:42:59] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[20:42:59] [Server thread/INFO]: /tp -> teleport
+[20:42:59] [Server thread/INFO]: /tellraw <targets> <message>
+[20:42:59] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
+[20:42:59] [Server thread/INFO]: /time (set|add|query)
+[20:42:59] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[20:42:59] [Server thread/INFO]: /trigger <objective> [add|set]
+[20:42:59] [Server thread/INFO]: /weather (clear|rain|thunder)
+[20:42:59] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[20:42:59] [Server thread/INFO]: /jfr (start|stop)
+[20:42:59] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[20:42:59] [Server thread/INFO]: /banlist [ips|players]
+[20:42:59] [Server thread/INFO]: /ban <targets> [<reason>]
+[20:42:59] [Server thread/INFO]: /deop <targets>
+[20:42:59] [Server thread/INFO]: /op <targets>
+[20:42:59] [Server thread/INFO]: /pardon <targets>
+[20:42:59] [Server thread/INFO]: /pardon-ip <target>
+[20:42:59] [Server thread/INFO]: /perf (start|stop)
+[20:42:59] [Server thread/INFO]: /save-all [flush]
+[20:42:59] [Server thread/INFO]: /save-off
+[20:42:59] [Server thread/INFO]: /save-on
+[20:42:59] [Server thread/INFO]: /setidletimeout <minutes>
+[20:42:59] [Server thread/INFO]: /stop
+[20:42:59] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[20:46:16] [Server thread/INFO]: You whisper to TotallyLucy126: is it alright if i shut down the server for a lil? btw i can read the chat messages
+[20:46:28] [Server thread/INFO]: <TotallyLucy126> aiit is good
+[20:46:30] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[20:46:30] [Server thread/INFO]: TotallyLucy126 left the game
+[20:46:42] [Server thread/INFO]: Stopping server
+[20:46:42] [Server thread/INFO]: Saving players
+[20:46:42] [Server thread/INFO]: Saving worlds
+[20:46:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:46:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:46:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:46:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:46:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:46:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:46:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
