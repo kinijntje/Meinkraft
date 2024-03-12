@@ -14,6 +14,7 @@
       "minecraft:river": "2023-11-09 19:08:40 +0100",
       "minecraft:stony_shore": "2023-11-09 19:05:53 +0100",
       "minecraft:snowy_plains": "2023-11-26 21:38:34 +0100",
+      "minecraft:lush_caves": "2024-03-12 23:34:18 +0100",
       "minecraft:dripstone_caves": "2023-11-10 00:09:31 +0100",
       "minecraft:snowy_taiga": "2023-11-26 21:37:56 +0100",
       "minecraft:frozen_peaks": "2023-12-06 22:30:44 +0100",
@@ -4112,21 +4113,27 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2024-03-09 17:56:37 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2024-03-09 17:10:57 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond": {
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
-      "has_diamond_block": "2024-03-09 17:57:13 +0100"
+      "has_basalt": "2024-03-09 17:10:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-03-09 17:10:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-03-09 17:56:37 +0100"
     },
     "done": true
   },
@@ -4142,9 +4149,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+  "minecraft:recipes/misc/diamond": {
     "criteria": {
-      "has_basalt": "2024-03-09 17:10:57 +0100"
+      "has_diamond_block": "2024-03-09 17:57:13 +0100"
     },
     "done": true
   },
@@ -4154,9 +4161,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt": {
+  "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
-      "has_basalt": "2024-03-09 17:10:57 +0100"
+      "has_soul_sand": "2024-03-11 23:32:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-03-11 23:32:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-03-11 23:51:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-03-12 00:51:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-03-12 00:51:47 +0100"
     },
     "done": true
   },
