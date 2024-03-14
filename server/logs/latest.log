@@ -1,15 +1,17 @@
-[00:16:11] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
-[00:16:32] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 504 block(s)]
-[00:19:21] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
-[00:30:51] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[00:30:51] [Server thread/INFO]: lolzkinijntjes left the game
-[00:30:57] [Server thread/INFO]: Stopping server
-[00:30:57] [Server thread/INFO]: Saving players
-[00:30:57] [Server thread/INFO]: Saving worlds
-[00:30:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:30:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:30:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:30:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:30:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:30:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:30:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:03:53] [Server thread/INFO]: [TotallyLucy126: Set the weather to rain]
+[00:04:59] [Server thread/INFO]: [TotallyLucy126: Set the time to 1000]
+[00:05:07] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[00:40:28] [Server thread/INFO]: You whisper to TotallyLucy126: imma have to shutdown the server in like 5 mins for tnight 
+[00:41:06] [Server thread/INFO]: You whisper to TotallyLucy126: voor de shleep thingy :)
+[00:44:21] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[00:44:21] [Server thread/INFO]: TotallyLucy126 left the game
+[00:51:44] [Server thread/INFO]: Stopping server
+[00:51:44] [Server thread/INFO]: Saving players
+[00:51:44] [Server thread/INFO]: Saving worlds
+[00:51:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:51:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:51:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:51:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:51:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:51:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:51:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
