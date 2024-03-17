@@ -1,31 +1,19 @@
-[01:32:42] [Server thread/INFO]: You whisper to TotallyLucy126: Yoooo imma shut down the server in about 5 to 10 mins
-[01:32:56] [Server thread/INFO]: <TotallyLucy126> waiit come check out the church
-[01:34:51] [Server thread/INFO]: You whisper to TotallyLucy126: im on da wae
-[01:35:56] [User Authenticator #2/INFO]: UUID of player lolzkinijntjes is e9785d74-0ad7-49a5-89d8-5547d0c6ecd7
-[01:35:56] [Server thread/INFO]: lolzkinijntjes[/127.0.0.1:63872] logged in with entity id 29735 at (-1909.6185087398312, 40.11650136792814, -3700.8661816025055)
-[01:35:57] [Server thread/INFO]: lolzkinijntjes joined the game
-[01:56:07] [Server thread/INFO]: <lolzkinijntjes> ./fill
-[01:56:50] [Server thread/INFO]: <lolzkinijntjes> ./fill -1953 60 -3617
-[01:58:34] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 4 block(s)]
-[01:59:02] [Server thread/INFO]: [TotallyLucy126: Successfully filled 2 block(s)]
-[01:59:53] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 5 block(s)]
-[02:01:27] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
-[02:02:18] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
-[02:06:17] [Server thread/INFO]: [lolzkinijntjes: Set the time to 13000]
-[02:09:47] [Server thread/INFO]: [TotallyLucy126: Set own game mode to Spectator Mode]
-[02:10:13] [Server thread/INFO]: [TotallyLucy126: Set own game mode to Creative Mode]
-[02:13:53] [Server thread/INFO]: TotallyLucy126 has made the advancement [Spooky Scary Skeleton]
-[02:16:34] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[02:16:34] [Server thread/INFO]: lolzkinijntjes left the game
-[02:16:36] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
-[02:16:36] [Server thread/INFO]: TotallyLucy126 left the game
-[02:16:55] [Server thread/INFO]: Stopping server
-[02:16:55] [Server thread/INFO]: Saving players
-[02:16:55] [Server thread/INFO]: Saving worlds
-[02:16:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:16:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:16:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:16:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:16:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:16:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:16:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:00:18] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
+[00:02:40] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
+[00:35:12] [Server thread/INFO]: [TotallyLucy126: Set the weather to rain]
+[00:41:12] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 71 block(s)]
+[00:46:16] [Server thread/INFO]: [TotallyLucy126: Set the weather to rain]
+[01:32:41] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[01:32:41] [Server thread/INFO]: TotallyLucy126 left the game
+[01:37:14] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
+[01:37:14] [Server thread/INFO]: lolzkinijntjes left the game
+[01:37:35] [Server thread/INFO]: Stopping server
+[01:37:35] [Server thread/INFO]: Saving players
+[01:37:35] [Server thread/INFO]: Saving worlds
+[01:37:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:37:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:37:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:37:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:37:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:37:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:37:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
