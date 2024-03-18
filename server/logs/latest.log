@@ -1,19 +1,24 @@
-[00:00:18] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
-[00:02:40] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
-[00:35:12] [Server thread/INFO]: [TotallyLucy126: Set the weather to rain]
-[00:41:12] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 71 block(s)]
-[00:46:16] [Server thread/INFO]: [TotallyLucy126: Set the weather to rain]
-[01:32:41] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
-[01:32:41] [Server thread/INFO]: TotallyLucy126 left the game
-[01:37:14] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[01:37:14] [Server thread/INFO]: lolzkinijntjes left the game
-[01:37:35] [Server thread/INFO]: Stopping server
-[01:37:35] [Server thread/INFO]: Saving players
-[01:37:35] [Server thread/INFO]: Saving worlds
-[01:37:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:37:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:37:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:37:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:37:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:37:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:37:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:03:59] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 720 block(s)]
+[00:05:19] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 320 block(s)]
+[00:20:23] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
+[00:20:52] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 9784 block(s)]
+[00:21:06] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
+[00:23:05] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
+[00:23:31] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
+[00:25:12] [Server thread/INFO]: [lolzkinijntjes: Applied effect Strength to lolzkinijntjes]
+[00:25:41] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
+[00:26:28] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
+[00:32:08] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[00:32:08] [Server thread/INFO]: TotallyLucy126 left the game
+[00:32:58] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
+[00:32:58] [Server thread/INFO]: lolzkinijntjes left the game
+[00:33:17] [Server thread/INFO]: Stopping server
+[00:33:17] [Server thread/INFO]: Saving players
+[00:33:17] [Server thread/INFO]: Saving worlds
+[00:33:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:33:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:33:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:33:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:33:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:33:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:33:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
