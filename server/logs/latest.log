@@ -1,24 +1,28 @@
-[00:03:59] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 720 block(s)]
-[00:05:19] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 320 block(s)]
-[00:20:23] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
-[00:20:52] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 9784 block(s)]
-[00:21:06] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
-[00:23:05] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
-[00:23:31] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
-[00:25:12] [Server thread/INFO]: [lolzkinijntjes: Applied effect Strength to lolzkinijntjes]
-[00:25:41] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
-[00:26:28] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
-[00:32:08] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
-[00:32:08] [Server thread/INFO]: TotallyLucy126 left the game
-[00:32:58] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[00:32:58] [Server thread/INFO]: lolzkinijntjes left the game
-[00:33:17] [Server thread/INFO]: Stopping server
-[00:33:17] [Server thread/INFO]: Saving players
-[00:33:17] [Server thread/INFO]: Saving worlds
-[00:33:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:33:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:33:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:33:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:33:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:33:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:33:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:00:44] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 8671 block(s)]
+[00:01:03] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 4004 block(s)]
+[00:01:31] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 1122 block(s)]
+[00:02:06] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 1386 block(s)]
+[00:02:21] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
+[00:02:56] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 74 block(s)]
+[00:04:24] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 75 block(s)]
+[00:04:52] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 76 block(s)]
+[00:05:15] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 76 block(s)]
+[00:06:12] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 250 block(s)]
+[00:21:03] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
+[00:21:16] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
+[00:25:01] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
+[00:26:17] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
+[00:38:34] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[00:38:34] [Server thread/INFO]: TotallyLucy126 left the game
+[00:38:36] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
+[00:38:36] [Server thread/INFO]: lolzkinijntjes left the game
+[00:39:03] [Server thread/INFO]: Stopping server
+[00:39:03] [Server thread/INFO]: Saving players
+[00:39:03] [Server thread/INFO]: Saving worlds
+[00:39:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:39:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:39:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:39:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:39:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:39:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:39:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
