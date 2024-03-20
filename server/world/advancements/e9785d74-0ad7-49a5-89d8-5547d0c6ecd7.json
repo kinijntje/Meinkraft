@@ -4365,9 +4365,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
+  "minecraft:nether/root": {
     "criteria": {
-      "has_egg": "2024-03-20 00:34:01 +0100"
+      "entered_nether": "2024-03-19 23:44:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-03-19 23:44:11 +0100"
     },
     "done": true
   },
@@ -4378,15 +4384,63 @@
     },
     "done": false
   },
-  "minecraft:nether/root": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "entered_nether": "2024-03-19 23:44:11 +0100"
+      "has_egg": "2024-03-20 00:34:01 +0100"
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
+  "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
-      "entered_nether": "2024-03-19 23:44:11 +0100"
+      "has_planks": "2024-03-21 00:10:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2024-03-21 00:10:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2024-03-21 00:10:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-03-21 00:10:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2024-03-21 00:10:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2024-03-21 00:10:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-03-21 00:10:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2024-03-21 00:10:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-03-21 00:10:39 +0100"
     },
     "done": true
   },
