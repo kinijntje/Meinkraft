@@ -1,46 +1,59 @@
-[22:11:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:11:25] [ServerMain/INFO]: Loaded 7 recipes
-[22:11:26] [ServerMain/INFO]: Loaded 1271 advancements
-[22:11:27] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[22:11:27] [Server thread/INFO]: Loading properties
-[22:11:27] [Server thread/INFO]: Default game type: SURVIVAL
-[22:11:27] [Server thread/INFO]: Generating keypair
-[22:11:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:11:28] [Server thread/INFO]: Using default channel type
-[22:11:28] [Server thread/INFO]: Preparing level "world"
-[22:11:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:11:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:11:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:11:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:11:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:11:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:11:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:11:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:11:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:11:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:11:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:11:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:11:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:11:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:11:38] [Worker-Main-2/INFO]: Preparing spawn area: 23%
-[22:11:38] [Server thread/INFO]: Time elapsed: 7262 ms
-[22:11:38] [Server thread/INFO]: Done (10.536s)! For help, type "help"
-[23:12:23] [User Authenticator #1/INFO]: UUID of player lolzkinijntjes is e9785d74-0ad7-49a5-89d8-5547d0c6ecd7
-[23:12:24] [Server thread/INFO]: lolzkinijntjes[/127.0.0.1:57028] logged in with entity id 375 at (-1932.5507231849947, 71.01397806556724, -3644.7148536697528)
-[23:12:24] [Server thread/INFO]: lolzkinijntjes joined the game
-[23:12:43] [Server thread/INFO]: Named entity cdi['Gef'/257, l='ServerLevel[world]', x=-1899.42, y=77.92, z=-3595.91] died: Gef went up in flames
-[23:14:07] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Spectator Mode]
-[23:14:27] [Server thread/INFO]: [lolzkinijntjes: Set own game mode to Creative Mode]
-[23:15:16] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 174 block(s)]
-[23:36:02] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[23:36:02] [Server thread/INFO]: lolzkinijntjes left the game
-[23:36:07] [Server thread/INFO]: Stopping server
-[23:36:07] [Server thread/INFO]: Saving players
-[23:36:07] [Server thread/INFO]: Saving worlds
-[23:36:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:36:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:36:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:36:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:36:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:36:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:36:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:01:36] [Server thread/INFO]: [lolzkinijntjes: Teleported lolzkinijntjes to -1914.430000, 70.130000, -3629.070000]
+[00:02:54] [Server thread/INFO]: [lolzkinijntjes: Teleported lolzkinijntjes to -2096.510000, 102.000000, -3399.310000]
+[00:02:57] [Server thread/INFO]: [lolzkinijntjes: Teleported lolzkinijntjes to -1914.430000, 70.130000, -3629.070000]
+[00:02:57] [Server thread/WARN]: lolzkinijntjes moved too quickly! 180.87301292968436,-32.613953411962044,-230.6589350429067
+[00:02:57] [Server thread/WARN]: lolzkinijntjes moved too quickly! 180.87301292968436,-32.613953411962044,-230.6589350429067
+[00:03:22] [Server thread/INFO]: [lolzkinijntjes: Teleported lolzkinijntjes to -2096.510000, 102.000000, -3399.310000]
+[00:03:22] [Server thread/WARN]: lolzkinijntjes moved too quickly! -177.59908952575893,31.799999952316284,230.72140327134593
+[00:03:22] [Server thread/WARN]: lolzkinijntjes moved too quickly! -177.59908952575893,31.799999952316284,230.72140327134593
+[00:03:27] [Server thread/INFO]: TotallyLucy126 lost connection: Timed out
+[00:03:27] [Server thread/INFO]: TotallyLucy126 left the game
+[00:03:31] [Server thread/INFO]: [lolzkinijntjes: Teleported lolzkinijntjes to -1914.430000, 70.130000, -3629.070000]
+[00:03:31] [Server thread/WARN]: lolzkinijntjes moved too quickly! 179.56979533355184,-37.11433594662368,-228.07798675353024
+[00:03:31] [Server thread/WARN]: lolzkinijntjes moved too quickly! 179.56979533355184,-37.11433594662368,-228.07798675353024
+[00:03:31] [User Authenticator #3/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
+[00:03:32] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:58351] logged in with entity id 30755 at (-1934.022641441943, 74.12214927075546, -3645.6000212625345)
+[00:03:32] [Server thread/INFO]: TotallyLucy126 joined the game
+[00:03:47] [Server thread/INFO]: [lolzkinijntjes: Teleported lolzkinijntjes to -1914.430000, 70.130000, -3629.070000]
+[00:03:50] [Server thread/INFO]: [lolzkinijntjes: Teleported lolzkinijntjes to -2096.510000, 102.000000, -3399.310000]
+[00:03:50] [Server thread/WARN]: lolzkinijntjes moved too quickly! -182.08000000000015,31.870000000000005,229.76000000000022
+[00:03:50] [Server thread/WARN]: lolzkinijntjes moved too quickly! -182.08000000000015,31.870000000000005,229.76000000000022
+[00:03:50] [Server thread/WARN]: lolzkinijntjes moved too quickly! -182.08000000000015,31.870000000000005,229.76000000000022
+[00:04:03] [Server thread/INFO]: [lolzkinijntjes: Teleported lolzkinijntjes to -1914.430000, 70.130000, -3629.070000]
+[00:04:03] [Server thread/WARN]: lolzkinijntjes moved too quickly! 182.08000000000015,-34.621783903347136,-229.76000000000022
+[00:04:36] [Server thread/INFO]: [lolzkinijntjes: Teleported lolzkinijntjes to -1914.430000, 70.130000, -3629.070000]
+[00:04:42] [Server thread/INFO]: [lolzkinijntjes: Teleported lolzkinijntjes to -2096.510000, 102.000000, -3399.310000]
+[00:04:42] [Server thread/WARN]: lolzkinijntjes moved too quickly! -182.08000000000015,29.50609251977052,229.76000000000022
+[00:05:00] [Server thread/INFO]: [lolzkinijntjes: Teleported lolzkinijntjes to -1914.430000, 70.130000, -3629.070000]
+[00:05:00] [Server thread/WARN]: lolzkinijntjes moved too quickly! 184.4966890399412,-34.73859856141189,-233.4821531982002
+[00:05:00] [Server thread/WARN]: lolzkinijntjes moved too quickly! 184.4966890399412,-34.73859856141189,-233.4821531982002
+[00:05:27] [Server thread/INFO]: [lolzkinijntjes: Teleported lolzkinijntjes to -1914.430000, 70.130000, -3629.070000]
+[00:05:29] [Server thread/INFO]: [lolzkinijntjes: Teleported lolzkinijntjes to -2096.510000, 102.000000, -3399.310000]
+[00:05:29] [Server thread/WARN]: lolzkinijntjes moved too quickly! -182.08000000000015,31.870000000000005,229.76000000000022
+[00:05:36] [Server thread/INFO]: [lolzkinijntjes: Teleported lolzkinijntjes to -1914.430000, 70.130000, -3629.070000]
+[00:06:40] [Server thread/INFO]: [lolzkinijntjes: Teleported lolzkinijntjes to -2096.510000, 102.000000, -3399.310000]
+[00:06:40] [Server thread/WARN]: lolzkinijntjes moved too quickly! -180.68278747606655,30.248775733459,229.73852429549333
+[00:06:56] [Server thread/INFO]: [lolzkinijntjes: Teleported lolzkinijntjes to -1914.430000, 70.130000, -3629.070000]
+[00:06:56] [Server thread/WARN]: lolzkinijntjes moved too quickly! 178.2661001169979,-33.31355699298453,-226.32970265718814
+[00:08:38] [Server thread/INFO]: [lolzkinijntjes: Teleported lolzkinijntjes to -2096.510000, 102.000000, -3399.310000]
+[00:09:53] [Server thread/INFO]: [lolzkinijntjes: Teleported lolzkinijntjes to -1914.430000, 70.130000, -3629.070000]
+[00:09:53] [Server thread/WARN]: lolzkinijntjes moved too quickly! 183.66401746252745,-31.870000000000005,-220.33103564402745
+[00:09:53] [Server thread/WARN]: lolzkinijntjes moved too quickly! 183.66401746252745,-31.870000000000005,-220.33103564402745
+[00:14:49] [Server thread/INFO]: [TotallyLucy126: Set the weather to rain]
+[00:24:18] [Server thread/INFO]: [TotallyLucy126: Set the weather to clear]
+[00:56:36] [Server thread/WARN]: Mangrove Boat (vehicle of TotallyLucy126) moved wrongly! 0.5565739885653329
+[00:57:32] [Server thread/WARN]: Bamboo Raft (vehicle of lolzkinijntjes) moved too quickly! 8.938406540212782,0.0,-4.808618593130632
+[01:33:55] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[01:33:55] [Server thread/INFO]: TotallyLucy126 left the game
+[01:33:57] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
+[01:33:57] [Server thread/INFO]: lolzkinijntjes left the game
+[01:38:33] [Server thread/INFO]: Stopping server
+[01:38:33] [Server thread/INFO]: Saving players
+[01:38:33] [Server thread/INFO]: Saving worlds
+[01:38:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:38:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:38:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:38:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:38:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:38:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:38:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
