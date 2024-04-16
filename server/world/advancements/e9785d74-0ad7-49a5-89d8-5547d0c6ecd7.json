@@ -2555,6 +2555,7 @@
       "honey_bottle": "2024-03-23 00:32:17 +0100",
       "suspicious_stew": "2023-11-28 01:42:46 +0100",
       "cooked_mutton": "2023-11-28 21:13:38 +0100",
+      "cooked_cod": "2024-04-17 00:35:51 +0200",
       "cooked_beef": "2023-12-01 00:03:59 +0100"
     },
     "done": false
@@ -5014,9 +5015,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lime_dye_from_smelting": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
     "criteria": {
-      "has_sea_pickle": "2024-04-09 18:42:43 +0200"
+      "has_vine": "2024-04-09 18:32:38 +0200"
     },
     "done": true
   },
@@ -5044,9 +5045,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
-      "has_vine": "2024-04-09 18:32:38 +0200"
+      "has_sea_pickle": "2024-04-09 18:42:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2024-04-17 00:36:35 +0200"
     },
     "done": true
   },

@@ -1,52 +1,25 @@
-[17:41:41] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:41:44] [ServerMain/INFO]: Loaded 7 recipes
-[17:41:44] [ServerMain/INFO]: Loaded 1271 advancements
-[17:41:46] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[17:41:46] [Server thread/INFO]: Loading properties
-[17:41:46] [Server thread/INFO]: Default game type: SURVIVAL
-[17:41:46] [Server thread/INFO]: Generating keypair
-[17:41:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:41:46] [Server thread/INFO]: Using default channel type
-[17:41:46] [Server thread/INFO]: Preparing level "world"
-[17:41:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:41:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:41:52] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:41:52] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:41:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:41:54] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:41:55] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[17:41:55] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[17:41:56] [Worker-Main-1/INFO]: Preparing spawn area: 50%
-[17:41:56] [Server thread/INFO]: Time elapsed: 6999 ms
-[17:41:56] [Server thread/INFO]: Done (10.196s)! For help, type "help"
-[17:43:36] [Server thread/INFO]: ServerSeeker_net (/109.123.240.84:40422) lost connection: Disconnected
-[17:53:33] [User Authenticator #1/INFO]: UUID of player lolzkinijntjes is e9785d74-0ad7-49a5-89d8-5547d0c6ecd7
-[17:53:33] [Server thread/INFO]: lolzkinijntjes[/127.0.0.1:65050] logged in with entity id 185 at (-16877.550448205537, 115.55614641945448, -36470.85508540576)
-[17:53:33] [Server thread/INFO]: lolzkinijntjes joined the game
-[17:53:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
-[17:53:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3157ms or 63 ticks behind
-[18:22:55] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 667 block(s)]
-[18:23:07] [Server thread/INFO]: [lolzkinijntjes: Set the time to 13000]
-[18:37:28] [Server thread/INFO]: lolzkinijntjes has reached the goal [The Next Generation]
-[18:38:31] [Server thread/INFO]: lolzkinijntjes has made the advancement [Hidden in the Depths]
-[18:58:53] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[18:58:53] [Server thread/INFO]: lolzkinijntjes left the game
-[19:50:59] [User Authenticator #2/INFO]: Disconnecting lolzkinijntjes (/185.213.154.143:49988): Failed to verify username!
-[19:50:59] [User Authenticator #2/ERROR]: Username 'lolzkinijntjes' tried to join with an invalid session
-[19:50:59] [Server thread/INFO]: lolzkinijntjes (/185.213.154.143:49988) lost connection: Failed to verify username!
-[23:17:58] [Server thread/INFO]: Stopping server
-[23:17:58] [Server thread/INFO]: Saving players
-[23:17:58] [Server thread/INFO]: Saving worlds
-[23:17:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:17:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:17:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:17:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:17:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:17:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:17:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:31:32] [Server thread/INFO]: [@: Teleported lolzkinijntjes to 2441.500000, 200.000000, -4606.500000]
+[00:31:41] [Server thread/INFO]: [@: Teleported lolzkinijntjes to 9400.500000, 100.000000, -514.500000]
+[00:31:46] [Server thread/WARN]: TotallyLucy126 moved too quickly! 1.666522186358634,-6.374992850851825,8.035983300914836
+[00:31:46] [Server thread/WARN]: lolzkinijntjes moved too quickly! 0.10956854186588316,7.490552803075843,-6.785554587295337
+[00:40:04] [Server thread/INFO]: [@: Teleported TotallyLucy126 to 2442.500000, 200.000000, -4605.500000]
+[00:40:06] [Server thread/INFO]: [@: Teleported lolzkinijntjes to 2442.500000, 200.000000, -4605.500000]
+[00:40:10] [Server thread/INFO]: [@: Teleported TotallyLucy126 to -16984.460000, 71.000000, -36500.200000]
+[00:40:13] [Server thread/INFO]: [@: Teleported lolzkinijntjes to -16984.460000, 71.000000, -36500.200000]
+[00:49:06] [Server thread/INFO]: TotallyLucy126 has made the advancement [Bee Our Guest]
+[00:53:59] [Server thread/INFO]: [@: Teleported TotallyLucy126 to 2441.500000, 200.000000, -4606.500000]
+[00:54:04] [Server thread/INFO]: [@: Teleported TotallyLucy126 to 9400.500000, 100.000000, -514.500000]
+[00:54:27] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
+[00:54:27] [Server thread/INFO]: lolzkinijntjes left the game
+[00:54:33] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[00:54:33] [Server thread/INFO]: TotallyLucy126 left the game
+[00:55:29] [Server thread/INFO]: Stopping server
+[00:55:29] [Server thread/INFO]: Saving players
+[00:55:29] [Server thread/INFO]: Saving worlds
+[00:55:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:55:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:55:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:55:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:55:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:55:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:55:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
