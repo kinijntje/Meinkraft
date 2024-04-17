@@ -1,25 +1,17 @@
-[00:31:32] [Server thread/INFO]: [@: Teleported lolzkinijntjes to 2441.500000, 200.000000, -4606.500000]
-[00:31:41] [Server thread/INFO]: [@: Teleported lolzkinijntjes to 9400.500000, 100.000000, -514.500000]
-[00:31:46] [Server thread/WARN]: TotallyLucy126 moved too quickly! 1.666522186358634,-6.374992850851825,8.035983300914836
-[00:31:46] [Server thread/WARN]: lolzkinijntjes moved too quickly! 0.10956854186588316,7.490552803075843,-6.785554587295337
-[00:40:04] [Server thread/INFO]: [@: Teleported TotallyLucy126 to 2442.500000, 200.000000, -4605.500000]
-[00:40:06] [Server thread/INFO]: [@: Teleported lolzkinijntjes to 2442.500000, 200.000000, -4605.500000]
-[00:40:10] [Server thread/INFO]: [@: Teleported TotallyLucy126 to -16984.460000, 71.000000, -36500.200000]
-[00:40:13] [Server thread/INFO]: [@: Teleported lolzkinijntjes to -16984.460000, 71.000000, -36500.200000]
-[00:49:06] [Server thread/INFO]: TotallyLucy126 has made the advancement [Bee Our Guest]
-[00:53:59] [Server thread/INFO]: [@: Teleported TotallyLucy126 to 2441.500000, 200.000000, -4606.500000]
-[00:54:04] [Server thread/INFO]: [@: Teleported TotallyLucy126 to 9400.500000, 100.000000, -514.500000]
-[00:54:27] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[00:54:27] [Server thread/INFO]: lolzkinijntjes left the game
-[00:54:33] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
-[00:54:33] [Server thread/INFO]: TotallyLucy126 left the game
-[00:55:29] [Server thread/INFO]: Stopping server
-[00:55:29] [Server thread/INFO]: Saving players
-[00:55:29] [Server thread/INFO]: Saving worlds
-[00:55:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:55:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:55:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:55:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:55:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:55:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:55:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:04:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:04:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3388ms or 67 ticks behind
+[00:12:56] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[00:18:46] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[00:18:46] [Server thread/INFO]: TotallyLucy126 left the game
+[00:26:44] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
+[00:26:44] [Server thread/INFO]: lolzkinijntjes left the game
+[00:26:53] [Server thread/INFO]: Stopping server
+[00:26:53] [Server thread/INFO]: Saving players
+[00:26:53] [Server thread/INFO]: Saving worlds
+[00:26:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:26:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:26:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:26:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:26:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:26:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:26:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
