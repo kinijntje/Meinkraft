@@ -1,21 +1,17 @@
-[00:14:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[00:14:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
-[00:16:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
-[00:16:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2715ms or 54 ticks behind
-[00:29:03] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 63 block(s)]
-[00:29:20] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 63 block(s)]
-[00:29:40] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 63 block(s)]
-[00:34:26] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
-[00:34:26] [Server thread/INFO]: TotallyLucy126 left the game
-[00:34:35] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[00:34:35] [Server thread/INFO]: lolzkinijntjes left the game
-[00:34:48] [Server thread/INFO]: Stopping server
-[00:34:48] [Server thread/INFO]: Saving players
-[00:34:48] [Server thread/INFO]: Saving worlds
-[00:34:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:34:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:34:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:34:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:34:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:34:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:34:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:00:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[00:00:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[00:02:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:37:17] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[00:37:17] [Server thread/INFO]: TotallyLucy126 left the game
+[00:38:33] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
+[00:38:33] [Server thread/INFO]: lolzkinijntjes left the game
+[00:38:38] [Server thread/INFO]: Stopping server
+[00:38:38] [Server thread/INFO]: Saving players
+[00:38:38] [Server thread/INFO]: Saving worlds
+[00:38:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:38:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:38:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:38:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:38:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:38:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:38:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
