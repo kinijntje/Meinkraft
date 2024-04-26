@@ -1,17 +1,49 @@
-[00:00:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
-[00:00:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[00:02:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[00:37:17] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
-[00:37:17] [Server thread/INFO]: TotallyLucy126 left the game
-[00:38:33] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[00:38:33] [Server thread/INFO]: lolzkinijntjes left the game
-[00:38:38] [Server thread/INFO]: Stopping server
-[00:38:38] [Server thread/INFO]: Saving players
-[00:38:38] [Server thread/INFO]: Saving worlds
-[00:38:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:38:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:38:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:38:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:38:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:38:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:38:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:02:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:02:27] [ServerMain/INFO]: Loaded 1175 recipes
+[20:02:27] [ServerMain/INFO]: Loaded 1276 advancements
+[20:02:29] [Server thread/INFO]: Starting minecraft server version 1.20.5
+[20:02:29] [Server thread/INFO]: Loading properties
+[20:02:29] [Server thread/INFO]: Default game type: SURVIVAL
+[20:02:29] [Server thread/INFO]: Generating keypair
+[20:02:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:02:30] [Server thread/INFO]: Using default channel type
+[20:02:30] [Server thread/INFO]: Preparing level "world"
+[20:02:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:02:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:02:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:02:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:02:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:02:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:02:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:02:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:02:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:02:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:02:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:02:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:02:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:02:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:02:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:02:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:02:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:02:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:02:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:02:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:02:43] [Server thread/INFO]: Time elapsed: 9493 ms
+[20:02:43] [Server thread/INFO]: Done (13.563s)! For help, type "help"
+[20:09:59] [User Authenticator #1/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
+[20:10:01] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:55413] logged in with entity id 76 at (-16981.004518045767, 107.63172851260907, -36346.41898924686)
+[20:10:01] [Server thread/INFO]: TotallyLucy126 joined the game
+[20:53:20] [Server thread/INFO]: [@: Teleported TotallyLucy126 to 2441.500000, 200.000000, -4606.500000]
+[20:53:30] [Server thread/INFO]: [@: Teleported TotallyLucy126 to 9400.500000, 100.000000, -514.500000]
+[21:51:30] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[21:51:30] [Server thread/INFO]: TotallyLucy126 left the game
+[23:27:35] [Server thread/INFO]: Stopping server
+[23:27:35] [Server thread/INFO]: Saving players
+[23:27:35] [Server thread/INFO]: Saving worlds
+[23:27:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:27:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:27:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:27:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:27:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:27:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:27:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
