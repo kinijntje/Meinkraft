@@ -1,41 +1,41 @@
-[23:33:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:33:08] [ServerMain/INFO]: Loaded 1175 recipes
-[23:33:09] [ServerMain/INFO]: Loaded 1276 advancements
-[23:33:11] [Server thread/INFO]: Starting minecraft server version 1.20.6
-[23:33:11] [Server thread/INFO]: Loading properties
-[23:33:11] [Server thread/INFO]: Default game type: SURVIVAL
-[23:33:11] [Server thread/INFO]: Generating keypair
-[23:33:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:33:11] [Server thread/INFO]: Using default channel type
-[23:33:11] [Server thread/INFO]: Preparing level "world"
-[23:33:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:33:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:33:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:33:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:33:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:33:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:33:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:33:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:33:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:33:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:33:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:33:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:33:19] [Server thread/INFO]: Time elapsed: 5272 ms
-[23:33:19] [Server thread/INFO]: Done (8.368s)! For help, type "help"
-[23:35:23] [User Authenticator #1/INFO]: UUID of player lolzkinijntjes is e9785d74-0ad7-49a5-89d8-5547d0c6ecd7
-[23:35:25] [Server thread/INFO]: lolzkinijntjes[/127.0.0.1:62774] logged in with entity id 77 at (-16878.581925006914, 108.22491211460137, -36486.91980591539)
-[23:35:25] [Server thread/INFO]: lolzkinijntjes joined the game
-[23:35:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2325ms or 46 ticks behind
-[23:57:50] [Server thread/INFO]: [lolzkinijntjes: Set the time to 13000]
-[23:58:06] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[23:58:06] [Server thread/INFO]: lolzkinijntjes left the game
-[23:58:10] [Server thread/INFO]: Stopping server
-[23:58:10] [Server thread/INFO]: Saving players
-[23:58:10] [Server thread/INFO]: Saving worlds
-[23:58:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:58:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:58:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:58:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:58:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:58:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:58:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:10:31] [User Authenticator #2/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
+[00:10:34] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:52988] logged in with entity id 10805 at (9443.2333577455, 84.11823043676998, -544.0827652354986)
+[00:10:34] [Server thread/INFO]: TotallyLucy126 joined the game
+[00:24:12] [Server thread/INFO]: [lolzkinijntjes: Set the weather to clear]
+[00:30:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2228ms or 44 ticks behind
+[01:06:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01:07:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3335ms or 66 ticks behind
+[01:08:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[01:08:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4542ms or 90 ticks behind
+[01:10:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[01:11:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[01:12:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01:14:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[01:19:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[01:20:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[01:20:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4648ms or 92 ticks behind
+[01:22:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
+[01:24:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[01:30:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[01:33:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[01:35:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[01:35:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[01:38:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[01:50:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[01:54:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[02:02:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[02:06:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[02:09:55] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[02:09:55] [Server thread/INFO]: TotallyLucy126 left the game
+[02:09:58] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
+[02:09:58] [Server thread/INFO]: lolzkinijntjes left the game
+[02:10:03] [Server thread/INFO]: Stopping server
+[02:10:03] [Server thread/INFO]: Saving players
+[02:10:03] [Server thread/INFO]: Saving worlds
+[02:10:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:10:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:10:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:10:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:10:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:10:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:10:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
