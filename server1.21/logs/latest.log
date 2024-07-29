@@ -1,39 +1,37 @@
-[16:39:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:39:48] [ServerMain/INFO]: Loaded 1290 recipes
-[16:39:48] [ServerMain/INFO]: Loaded 1399 advancements
-[16:39:50] [Server thread/INFO]: Starting minecraft server version 1.21
-[16:39:50] [Server thread/INFO]: Loading properties
-[16:39:50] [Server thread/INFO]: Default game type: SURVIVAL
-[16:39:50] [Server thread/INFO]: Generating keypair
-[16:39:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:39:50] [Server thread/INFO]: Using default channel type
-[16:39:50] [Server thread/INFO]: Preparing level "world"
-[16:39:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:39:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:39:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:39:55] [Worker-Main-1/INFO]: Preparing spawn area: 8%
-[16:39:56] [Server thread/INFO]: Time elapsed: 1378 ms
-[16:39:56] [Server thread/INFO]: Done (5.499s)! For help, type "help"
-[16:52:51] [User Authenticator #1/INFO]: UUID of player lolzkinijntjes is e9785d74-0ad7-49a5-89d8-5547d0c6ecd7
-[16:52:52] [Server thread/INFO]: lolzkinijntjes[/127.0.0.1:59810] logged in with entity id 86 at (-16935.72650580292, 90.0569085323783, -36475.69666072247)
-[16:52:53] [Server thread/INFO]: lolzkinijntjes joined the game
-[17:17:26] [Server thread/INFO]: [@: Teleported lolzkinijntjes to 2441.500000, 200.000000, -4606.500000]
-[17:17:38] [Server thread/INFO]: [@: Teleported lolzkinijntjes to -1953.500000, 70.000000, -3653.500000]
-[17:45:19] [Server thread/INFO]: [@: Teleported lolzkinijntjes to 2441.500000, 200.000000, -4606.500000]
-[17:46:11] [Server thread/INFO]: [@: Teleported lolzkinijntjes to 9400.500000, 100.000000, -514.500000]
-[17:48:21] [Server thread/INFO]: [@: Teleported lolzkinijntjes to 2442.500000, 200.000000, -4605.500000]
-[17:48:26] [Server thread/INFO]: [@: Teleported lolzkinijntjes to -16984.460000, 71.000000, -36500.200000]
-[17:49:56] [Server thread/WARN]: lolzkinijntjes moved too quickly! -9.242680474435474,0.15000000596046448,-5.727452872306458
-[17:54:58] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 74 block(s)]
-[18:09:07] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[18:09:07] [Server thread/INFO]: lolzkinijntjes left the game
-[18:09:13] [Server thread/INFO]: Stopping server
-[18:09:13] [Server thread/INFO]: Saving players
-[18:09:13] [Server thread/INFO]: Saving worlds
-[18:09:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:09:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:09:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:02:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:02:52] [ServerMain/INFO]: Loaded 1290 recipes
+[00:02:52] [ServerMain/INFO]: Loaded 1399 advancements
+[00:02:53] [Server thread/INFO]: Starting minecraft server version 1.21
+[00:02:53] [Server thread/INFO]: Loading properties
+[00:02:53] [Server thread/INFO]: Default game type: SURVIVAL
+[00:02:53] [Server thread/INFO]: Generating keypair
+[00:02:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:02:54] [Server thread/INFO]: Using default channel type
+[00:02:54] [Server thread/INFO]: Preparing level "world"
+[00:02:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:02:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:02:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:02:58] [Server thread/INFO]: Time elapsed: 974 ms
+[00:02:58] [Server thread/INFO]: Done (4.136s)! For help, type "help"
+[00:09:28] [User Authenticator #1/INFO]: UUID of player lolzkinijntjes is e9785d74-0ad7-49a5-89d8-5547d0c6ecd7
+[00:09:29] [Server thread/INFO]: lolzkinijntjes[/127.0.0.1:50133] logged in with entity id 76 at (-17021.97896703066, 134.02714921534988, -36649.528692556545)
+[00:09:30] [Server thread/INFO]: lolzkinijntjes joined the game
+[00:17:10] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 149 block(s)]
+[00:19:00] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 348 block(s)]
+[00:23:39] [Server thread/INFO]: [lolzkinijntjes: Set the time to 1000]
+[00:39:54] [Server thread/INFO]: lolzkinijntjes has made the advancement [A Seedy Place]
+[00:51:20] [Server thread/INFO]: [lolzkinijntjes: Set the time to 13000]
+[00:56:38] [Server thread/INFO]: [lolzkinijntjes: Set the time to 1000]
+[01:01:32] [Server thread/INFO]: [lolzkinijntjes: Set the time to 13000]
+[01:02:18] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
+[01:02:18] [Server thread/INFO]: lolzkinijntjes left the game
+[01:02:29] [Server thread/INFO]: Stopping server
+[01:02:29] [Server thread/INFO]: Saving players
+[01:02:29] [Server thread/INFO]: Saving worlds
+[01:02:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:02:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:02:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:02:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:02:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:02:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:02:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
