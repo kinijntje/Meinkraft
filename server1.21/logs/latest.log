@@ -1,21 +1,30 @@
-[00:23:04] [Server thread/INFO]: [lolzkinijntjes: Set the time to 1000]
-[00:31:32] [Server thread/WARN]: TotallyLucy126 moved too quickly! -10.048834269997315,0.0,0.3950208321143691
-[00:56:58] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[00:56:58] [Server thread/INFO]: lolzkinijntjes left the game
-[00:59:33] [User Authenticator #3/INFO]: UUID of player lolzkinijntjes is e9785d74-0ad7-49a5-89d8-5547d0c6ecd7
-[00:59:33] [Server thread/INFO]: lolzkinijntjes[/127.0.0.1:63700] logged in with entity id 49758 at (9361.3293477315, 93.03089654329227, -715.9501843024901)
-[00:59:34] [Server thread/INFO]: lolzkinijntjes joined the game
-[01:01:11] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[01:01:11] [Server thread/INFO]: lolzkinijntjes left the game
-[01:04:02] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
-[01:04:02] [Server thread/INFO]: TotallyLucy126 left the game
-[01:04:10] [Server thread/INFO]: Stopping server
-[01:04:10] [Server thread/INFO]: Saving players
-[01:04:10] [Server thread/INFO]: Saving worlds
-[01:04:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:04:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:04:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:04:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:04:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:04:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:04:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:14:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:14:49] [ServerMain/INFO]: Loaded 1290 recipes
+[12:14:49] [ServerMain/INFO]: Loaded 1399 advancements
+[12:14:51] [Server thread/INFO]: Starting minecraft server version 1.21
+[12:14:51] [Server thread/INFO]: Loading properties
+[12:14:51] [Server thread/INFO]: Default game type: SURVIVAL
+[12:14:51] [Server thread/INFO]: Generating keypair
+[12:14:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:14:51] [Server thread/INFO]: Using default channel type
+[12:14:51] [Server thread/INFO]: Preparing level "world"
+[12:14:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:14:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:14:54] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:14:55] [Server thread/INFO]: Time elapsed: 1113 ms
+[12:14:55] [Server thread/INFO]: Done (4.027s)! For help, type "help"
+[12:16:05] [User Authenticator #1/INFO]: UUID of player lolzkinijntjes is e9785d74-0ad7-49a5-89d8-5547d0c6ecd7
+[12:16:09] [Server thread/INFO]: lolzkinijntjes[/127.0.0.1:53642] logged in with entity id 77 at (9308.457707787706, 80.40812501688204, -748.884846381382)
+[12:16:09] [Server thread/INFO]: lolzkinijntjes joined the game
+[13:16:24] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
+[13:16:24] [Server thread/INFO]: lolzkinijntjes left the game
+[13:16:29] [Server thread/INFO]: Stopping server
+[13:16:29] [Server thread/INFO]: Saving players
+[13:16:29] [Server thread/INFO]: Saving worlds
+[13:16:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:16:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13:16:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13:16:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:16:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:16:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:16:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
