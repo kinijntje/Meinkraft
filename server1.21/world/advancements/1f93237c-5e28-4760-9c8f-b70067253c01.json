@@ -4739,6 +4739,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-08-14 23:32:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2024-08-14 23:32:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_tuff_wall": {
     "criteria": {
       "has_polished_tuff": "2024-08-15 00:03:26 +0200"
@@ -4754,12 +4766,6 @@
   "minecraft:recipes/building_blocks/tuff_brick_stairs_from_polished_tuff_stonecutting": {
     "criteria": {
       "has_polished_tuff": "2024-08-15 00:03:26 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_bulb_from_honeycomb": {
-    "criteria": {
-      "has_copper_bulb": "2024-08-15 00:04:16 +0200"
     },
     "done": true
   },
@@ -4805,13 +4811,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/jungle_hanging_sign": {
+  "minecraft:recipes/building_blocks/tuff_bricks_from_polished_tuff_stonecutting": {
     "criteria": {
-      "has_stripped_logs": "2024-08-14 23:32:01 +0200"
+      "has_polished_tuff": "2024-08-15 00:03:26 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/tuff_bricks_from_polished_tuff_stonecutting": {
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_polished_tuff_stonecutting": {
     "criteria": {
       "has_polished_tuff": "2024-08-15 00:03:26 +0200"
     },
@@ -4823,21 +4829,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/tuff_brick_slab_from_polished_tuff_stonecutting": {
+  "minecraft:recipes/building_blocks/waxed_copper_bulb_from_honeycomb": {
     "criteria": {
-      "has_polished_tuff": "2024-08-15 00:03:26 +0200"
+      "has_copper_bulb": "2024-08-15 00:04:16 +0200"
     },
     "done": true
   },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2024-08-15 00:16:23 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
-    "criteria": {
-      "has_log": "2024-08-14 23:32:01 +0200"
     },
     "done": true
   },

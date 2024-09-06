@@ -1,30 +1,41 @@
-[12:14:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[12:14:49] [ServerMain/INFO]: Loaded 1290 recipes
-[12:14:49] [ServerMain/INFO]: Loaded 1399 advancements
-[12:14:51] [Server thread/INFO]: Starting minecraft server version 1.21
-[12:14:51] [Server thread/INFO]: Loading properties
-[12:14:51] [Server thread/INFO]: Default game type: SURVIVAL
-[12:14:51] [Server thread/INFO]: Generating keypair
-[12:14:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:14:51] [Server thread/INFO]: Using default channel type
-[12:14:51] [Server thread/INFO]: Preparing level "world"
-[12:14:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:14:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:14:54] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[12:14:55] [Server thread/INFO]: Time elapsed: 1113 ms
-[12:14:55] [Server thread/INFO]: Done (4.027s)! For help, type "help"
-[12:16:05] [User Authenticator #1/INFO]: UUID of player lolzkinijntjes is e9785d74-0ad7-49a5-89d8-5547d0c6ecd7
-[12:16:09] [Server thread/INFO]: lolzkinijntjes[/127.0.0.1:53642] logged in with entity id 77 at (9308.457707787706, 80.40812501688204, -748.884846381382)
-[12:16:09] [Server thread/INFO]: lolzkinijntjes joined the game
-[13:16:24] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[13:16:24] [Server thread/INFO]: lolzkinijntjes left the game
-[13:16:29] [Server thread/INFO]: Stopping server
-[13:16:29] [Server thread/INFO]: Saving players
-[13:16:29] [Server thread/INFO]: Saving worlds
-[13:16:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[13:16:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[13:16:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[13:16:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:16:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:16:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:16:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:00:25] [User Authenticator #1/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
+[00:00:28] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:58558] logged in with entity id 76 at (9519.009213621675, 80.32127353196685, -517.3000000119209)
+[00:00:28] [Server thread/INFO]: TotallyLucy126 joined the game
+[00:17:46] [User Authenticator #2/INFO]: UUID of player lolzkinijntjes is e9785d74-0ad7-49a5-89d8-5547d0c6ecd7
+[00:17:47] [Server thread/INFO]: lolzkinijntjes[/127.0.0.1:49307] logged in with entity id 2706 at (9354.900808374343, 100.4131544785412, -745.099001319652)
+[00:17:47] [Server thread/INFO]: lolzkinijntjes joined the game
+[00:17:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[00:17:52] [Server thread/INFO]: <TotallyLucy126> ooo
+[00:18:02] [Server thread/INFO]: <lolzkinijntjes> ISSA ME
+[01:51:50] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[01:51:50] [Server thread/INFO]: TotallyLucy126 left the game
+[01:52:00] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
+[01:52:00] [Server thread/INFO]: lolzkinijntjes left the game
+[01:52:03] [User Authenticator #3/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
+[01:52:04] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:59119] logged in with entity id 35222 at (9493.614408144029, 102.0, -427.1908209100286)
+[01:52:04] [Server thread/INFO]: TotallyLucy126 joined the game
+[01:52:07] [User Authenticator #4/INFO]: UUID of player lolzkinijntjes is e9785d74-0ad7-49a5-89d8-5547d0c6ecd7
+[01:52:08] [Server thread/INFO]: lolzkinijntjes[/127.0.0.1:49819] logged in with entity id 35453 at (9476.556551348827, 110.16877206496936, -511.58874277783957)
+[01:52:08] [Server thread/INFO]: lolzkinijntjes joined the game
+[01:52:19] [Server thread/INFO]: [@: Teleported TotallyLucy126 to 2442.500000, 200.000000, -4605.500000]
+[01:52:24] [Server thread/INFO]: [@: Teleported lolzkinijntjes to 2442.500000, 200.000000, -4605.500000]
+[01:52:26] [Server thread/INFO]: [@: Teleported TotallyLucy126 to -1953.500000, 70.000000, -3653.500000]
+[01:52:31] [Server thread/INFO]: [@: Teleported lolzkinijntjes to -1953.500000, 70.000000, -3653.500000]
+[01:53:42] [Server thread/INFO]: [lolzkinijntjes: Set the time to 13000]
+[01:53:47] [Server thread/INFO]: [lolzkinijntjes: Set the weather to rain]
+[01:57:05] [Server thread/INFO]: Villager cmk['Slave'/35957, l='ServerLevel[world]', x=-1809.53, y=69.00, z=-3648.33] died, message: 'Slave was slain by Zombie'
+[01:57:05] [Server thread/INFO]: Named entity cmk['Slave'/35957, l='ServerLevel[world]', x=-1809.53, y=69.00, z=-3648.33] died: Slave was slain by Zombie
+[02:10:43] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[02:10:43] [Server thread/INFO]: TotallyLucy126 left the game
+[02:10:45] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
+[02:10:45] [Server thread/INFO]: lolzkinijntjes left the game
+[02:10:53] [Server thread/INFO]: Stopping server
+[02:10:53] [Server thread/INFO]: Saving players
+[02:10:53] [Server thread/INFO]: Saving worlds
+[02:10:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:10:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:10:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:10:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:10:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:10:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:10:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
