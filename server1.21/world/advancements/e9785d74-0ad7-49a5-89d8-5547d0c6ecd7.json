@@ -5478,5 +5478,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2024-09-13 15:25:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2024-09-13 18:36:10 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
