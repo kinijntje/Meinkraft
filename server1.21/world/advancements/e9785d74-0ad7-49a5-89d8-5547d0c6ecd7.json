@@ -5496,15 +5496,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper_stairs": "2024-09-19 12:32:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper": {
     "criteria": {
       "has_waxed_oxidized_cut_copper_slab": "2024-09-19 12:33:14 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_honeycomb": {
+  "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
-      "has_oxidized_cut_copper_stairs": "2024-09-19 12:32:57 +0200"
+      "has_red_flower": "2024-09-20 12:25:25 +0200"
     },
     "done": true
   },
