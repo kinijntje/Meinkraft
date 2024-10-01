@@ -1,15 +1,43 @@
-[00:02:16] [Server thread/INFO]: TotallyLucy126 has made the advancement [Ice Bucket Challenge]
-[00:04:51] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[00:04:51] [Server thread/INFO]: lolzkinijntjes left the game
-[00:04:52] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
-[00:04:52] [Server thread/INFO]: TotallyLucy126 left the game
-[00:04:57] [Server thread/INFO]: Stopping server
-[00:04:57] [Server thread/INFO]: Saving players
-[00:04:57] [Server thread/INFO]: Saving worlds
-[00:04:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:04:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:04:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:04:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:04:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:04:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:04:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:04:27] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 150 block(s)]
+[00:06:30] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 70 block(s)]
+[00:06:36] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 1 block(s)]
+[00:06:51] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 69 block(s)]
+[00:08:10] [Server thread/INFO]: [lolzkinijntjes: Set the time to 1000]
+[00:09:17] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 57 block(s)]
+[00:09:50] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 57 block(s)]
+[00:10:08] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 57 block(s)]
+[00:11:33] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 71 block(s)]
+[00:11:46] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 69 block(s)]
+[00:13:16] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 30748 block(s)]
+[00:14:14] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 29543 block(s)]
+[00:16:37] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 7315 block(s)]
+[00:16:51] [Server thread/INFO]: Villager cmk['Villager'/2432, l='ServerLevel[world]', x=-16710.76, y=97.54, z=-36595.22] died, message: 'Villager was slain by Zombie'
+[00:22:22] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 558 block(s)]
+[00:22:32] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 495 block(s)]
+[00:22:54] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 1997 block(s)]
+[00:23:11] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 2255 block(s)]
+[00:23:24] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 1782 block(s)]
+[00:23:45] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 4831 block(s)]
+[00:26:31] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 2796 block(s)]
+[00:27:34] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 5342 block(s)]
+[00:28:56] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 188 block(s)]
+[00:32:14] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 364 block(s)]
+[00:33:20] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 68 block(s)]
+[00:33:47] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 1449 block(s)]
+[00:36:25] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 3295 block(s)]
+[00:41:59] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 768 block(s)]
+[00:42:33] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 74 block(s)]
+[00:44:13] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 1417 block(s)]
+[00:46:29] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 152 block(s)]
+[00:49:03] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
+[00:49:03] [Server thread/INFO]: lolzkinijntjes left the game
+[00:49:08] [Server thread/INFO]: Stopping server
+[00:49:08] [Server thread/INFO]: Saving players
+[00:49:08] [Server thread/INFO]: Saving worlds
+[00:49:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:49:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:49:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:49:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:49:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:49:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:49:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
