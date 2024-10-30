@@ -1,45 +1,22 @@
-[00:01:47] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 214 block(s)]
-[00:02:36] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 439 block(s)]
-[00:04:21] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 3537 block(s)]
-[00:05:01] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 485 block(s)]
-[00:08:20] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 1690 block(s)]
-[00:09:18] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 403 block(s)]
-[00:10:55] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 46 block(s)]
-[00:11:28] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 44 block(s)]
-[00:11:54] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 40 block(s)]
-[00:12:18] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 37 block(s)]
-[00:12:38] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 28 block(s)]
-[00:13:01] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 17 block(s)]
-[00:17:33] [Server thread/INFO]: Villager cmk['Nitwit'/53969, l='ServerLevel[world]', x=-16708.70, y=106.05, z=-36632.70] died, message: 'Nitwit was slain by Zombie'
-[00:25:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[00:25:14] [Server thread/INFO]: Named entity cfj['Chloik'/51290, l='ServerLevel[world]', x=-16973.44, y=69.00, z=-36451.28] died: Chloik was struck by lightning
-[00:26:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
-[00:32:35] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 70 block(s)]
-[00:33:05] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 1 block(s)]
-[00:33:26] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 57 block(s)]
-[00:33:58] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 69 block(s)]
-[00:34:15] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 56 block(s)]
-[00:34:54] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 999 block(s)]
-[00:35:37] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 74 block(s)]
-[00:37:57] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 97 block(s)]
-[00:39:29] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 47 block(s)]
-[00:41:51] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 49 block(s)]
-[00:42:09] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 41 block(s)]
-[00:46:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
-[00:52:00] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 22 block(s)]
-[00:52:16] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 22 block(s)]
-[00:52:43] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 37 block(s)]
-[00:59:06] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
-[00:59:06] [Server thread/INFO]: TotallyLucy126 left the game
-[01:05:23] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[01:05:23] [Server thread/INFO]: lolzkinijntjes left the game
-[01:05:30] [Server thread/INFO]: Stopping server
-[01:05:30] [Server thread/INFO]: Saving players
-[01:05:30] [Server thread/INFO]: Saving worlds
-[01:05:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:05:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:05:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:05:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:05:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:05:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:05:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:03:34] [Server thread/INFO]: [lolzkinijntjes: Set the time to 1000]
+[00:09:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2341ms or 46 ticks behind
+[00:36:02] [Server thread/INFO]: [lolzkinijntjes: Set the time to 1000]
+[00:44:20] [Server thread/WARN]: TotallyLucy126 moved too quickly! 4.590145753802062,3.374750532120771,-8.522360828472301
+[00:44:21] [Server thread/WARN]: TotallyLucy126 moved too quickly! 3.6380316127615515,4.124560964675965,-9.39705420347309
+[00:48:49] [Server thread/INFO]: [lolzkinijntjes: Set the time to 1000]
+[01:02:06] [Server thread/INFO]: [lolzkinijntjes: Set the time to 1000]
+[01:02:10] [Server thread/INFO]: [lolzkinijntjes: Set the weather to clear]
+[01:21:04] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[01:21:04] [Server thread/INFO]: TotallyLucy126 left the game
+[01:21:08] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
+[01:21:08] [Server thread/INFO]: lolzkinijntjes left the game
+[01:21:14] [Server thread/INFO]: Stopping server
+[01:21:14] [Server thread/INFO]: Saving players
+[01:21:14] [Server thread/INFO]: Saving worlds
+[01:21:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:21:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:21:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:21:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:21:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:21:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:21:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

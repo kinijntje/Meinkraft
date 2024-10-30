@@ -5538,5 +5538,23 @@
     },
     "done": true
   },
-  "DataVersion": 3953
+  "minecraft:recipes/tools/black_bundle": {
+    "criteria": {
+      "has_black_dye": "2024-10-29 23:39:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/white_bundle": {
+    "criteria": {
+      "has_white_dye": "2024-10-29 23:39:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/red_bundle": {
+    "criteria": {
+      "has_red_dye": "2024-10-29 23:39:55 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 4082
 }
