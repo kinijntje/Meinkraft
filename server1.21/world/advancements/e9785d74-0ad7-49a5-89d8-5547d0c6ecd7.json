@@ -5562,6 +5562,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2024-12-22 22:23:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2024-12-22 22:23:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2024-12-22 22:23:36 +0100"
@@ -5574,9 +5586,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_banner": {
+  "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
-      "has_magenta_wool": "2024-12-22 22:23:16 +0100"
+      "has_orange_wool": "2024-12-22 22:23:36 +0100"
     },
     "done": true
   },
@@ -5589,18 +5601,6 @@
   "minecraft:recipes/transportation/pale_oak_boat": {
     "criteria": {
       "in_water": "2024-12-22 22:28:16 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_bed": {
-    "criteria": {
-      "has_magenta_wool": "2024-12-22 22:23:16 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_carpet": {
-    "criteria": {
-      "has_orange_wool": "2024-12-22 22:23:36 +0100"
     },
     "done": true
   },
