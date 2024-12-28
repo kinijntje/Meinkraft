@@ -5628,5 +5628,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/bundle": {
+    "criteria": {
+      "has_string": "2024-12-28 00:52:14 +0100"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }

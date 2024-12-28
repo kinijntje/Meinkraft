@@ -1,72 +1,23 @@
-[15:20:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:20:54] [ServerMain/INFO]: Loaded 1370 recipes
-[15:20:54] [ServerMain/INFO]: Loaded 1481 advancements
-[15:20:55] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[15:20:55] [Server thread/INFO]: Loading properties
-[15:20:55] [Server thread/INFO]: Default game type: SURVIVAL
-[15:20:55] [Server thread/INFO]: Generating keypair
-[15:20:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:20:55] [Server thread/INFO]: Using default channel type
-[15:20:55] [Server thread/INFO]: Preparing level "world"
-[15:20:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:20:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:20:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:20:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:20:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:20:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:20:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:20:58] [Server thread/INFO]: Time elapsed: 2646 ms
-[15:20:58] [Server thread/INFO]: Done (3.409s)! For help, type "help"
-[15:20:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[15:20:59] [Server thread/INFO]: <--[HERE]
-[15:20:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[15:20:59] [Server thread/INFO]: <--[HERE]
-[15:21:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[16:29:58] [User Authenticator #1/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
-[16:30:01] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:60739] logged in with entity id 76 at (-16982.049809145534, 82.0, -36447.439302378974)
-[16:30:01] [Server thread/INFO]: TotallyLucy126 joined the game
-[16:30:08] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
-[16:32:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28733ms or 574 ticks behind
-[16:32:37] [Server thread/INFO]: TotallyLucy126 lost connection: Timed out
-[16:32:37] [Server thread/INFO]: TotallyLucy126 left the game
-[16:32:43] [User Authenticator #2/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
-[16:32:44] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:60752] logged in with entity id 1054 at (-17010.754965080243, 147.1320618691239, -36403.66774438575)
-[16:32:44] [Server thread/INFO]: TotallyLucy126 joined the game
-[16:41:47] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
-[16:52:46] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
-[17:03:31] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
-[17:17:04] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
-[17:28:13] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
-[17:39:12] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
-[17:54:05] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
-[18:10:48] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
-[18:14:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2271ms or 45 ticks behind
-[18:14:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[18:14:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
-[18:15:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[18:29:17] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
-[18:37:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
-[18:37:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[18:38:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
-[18:45:07] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
-[19:36:05] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
-[19:42:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[19:42:30] [Server thread/INFO]: im fooding rn<--[HERE]
-[19:45:24] [Server thread/INFO]: You whisper to TotallyLucy126: im fooding rn
-[19:45:34] [Server thread/INFO]: <TotallyLucy126> heehoo is good
-[19:46:55] [Server thread/INFO]: <TotallyLucy126> heehoo is good
-[19:46:58] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
-[19:57:41] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
-[20:02:52] [Server thread/INFO]: You whisper to TotallyLucy126: im redy in da discourt
-[20:04:44] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
-[20:04:44] [Server thread/INFO]: TotallyLucy126 left the game
-[20:04:53] [Server thread/INFO]: Stopping server
-[20:04:53] [Server thread/INFO]: Saving players
-[20:04:53] [Server thread/INFO]: Saving worlds
-[20:04:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:04:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:04:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:04:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:04:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:04:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:04:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:08:34] [User Authenticator #3/INFO]: UUID of player lolzkinijntjes is e9785d74-0ad7-49a5-89d8-5547d0c6ecd7
+[00:08:35] [Server thread/INFO]: lolzkinijntjes[/127.0.0.1:56843] logged in with entity id 27717 at (-16978.305450625947, 97.24433233885607, -36490.96630169668)
+[00:08:35] [Server thread/INFO]: lolzkinijntjes joined the game
+[00:08:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[00:08:58] [Server thread/INFO]: <lolzkinijntjes> omg
+[00:09:02] [Server thread/INFO]: <lolzkinijntjes> wheel is done
+[00:09:05] [Server thread/INFO]: <TotallyLucy126> ye
+[00:40:44] [Server thread/INFO]: [lolzkinijntjes: Set the time to 0]
+[00:40:47] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[00:40:47] [Server thread/INFO]: TotallyLucy126 left the game
+[00:40:49] [Server thread/INFO]: [lolzkinijntjes: Set the weather to clear]
+[01:05:24] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
+[01:05:24] [Server thread/INFO]: lolzkinijntjes left the game
+[01:05:29] [Server thread/INFO]: Stopping server
+[01:05:29] [Server thread/INFO]: Saving players
+[01:05:29] [Server thread/INFO]: Saving worlds
+[01:05:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:05:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:05:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:05:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:05:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:05:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:05:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
