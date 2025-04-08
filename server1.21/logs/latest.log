@@ -1,41 +1,82 @@
-[23:05:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:05:10] [ServerMain/INFO]: Loaded 1373 recipes
-[23:05:10] [ServerMain/INFO]: Loaded 1484 advancements
-[23:05:11] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[23:05:11] [Server thread/INFO]: Loading properties
-[23:05:11] [Server thread/INFO]: Default game type: SURVIVAL
-[23:05:11] [Server thread/INFO]: Generating keypair
-[23:05:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:05:11] [Server thread/INFO]: Using default channel type
-[23:05:11] [Server thread/INFO]: Preparing level "world"
-[23:05:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:05:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:05:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:05:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:05:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:05:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:05:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:05:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:05:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:05:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:05:17] [Server thread/INFO]: Time elapsed: 4338 ms
-[23:05:17] [Server thread/INFO]: Done (6.019s)! For help, type "help"
-[23:05:23] [User Authenticator #1/INFO]: UUID of player lolzkinijntjes is e9785d74-0ad7-49a5-89d8-5547d0c6ecd7
-[23:05:24] [Server thread/INFO]: lolzkinijntjes[/127.0.0.1:57982] logged in with entity id 77 at (-16941.272076357385, 139.04981036197302, -36633.52958644091)
-[23:05:25] [Server thread/INFO]: lolzkinijntjes joined the game
-[23:05:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2218ms or 44 ticks behind
-[23:05:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5145ms or 102 ticks behind
-[23:15:47] [Server thread/INFO]: [lolzkinijntjes: Set the weather to clear]
-[23:30:04] [Server thread/INFO]: [lolzkinijntjes: Set the weather to clear]
-[23:55:14] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[23:55:14] [Server thread/INFO]: lolzkinijntjes left the game
-[23:55:21] [Server thread/INFO]: Stopping server
-[23:55:21] [Server thread/INFO]: Saving players
-[23:55:21] [Server thread/INFO]: Saving worlds
-[23:55:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:55:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:55:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:55:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:55:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:55:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:55:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:34:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:34:40] [ServerMain/INFO]: Loaded 1373 recipes
+[22:34:40] [ServerMain/INFO]: Loaded 1484 advancements
+[22:34:41] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[22:34:41] [Server thread/INFO]: Loading properties
+[22:34:41] [Server thread/INFO]: Default game type: SURVIVAL
+[22:34:41] [Server thread/INFO]: Generating keypair
+[22:34:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:34:41] [Server thread/INFO]: Using default channel type
+[22:34:41] [Server thread/INFO]: Preparing level "world"
+[22:34:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:34:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:34:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:34:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:34:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:34:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:34:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:34:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:34:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:34:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:34:47] [Server thread/INFO]: Time elapsed: 4609 ms
+[22:34:47] [Server thread/INFO]: Done (6.037s)! For help, type "help"
+[22:34:57] [User Authenticator #1/INFO]: UUID of player lolzkinijntjes is e9785d74-0ad7-49a5-89d8-5547d0c6ecd7
+[22:34:59] [Server thread/INFO]: lolzkinijntjes[/127.0.0.1:50688] logged in with entity id 78 at (-16817.027577883844, 214.16603645719363, -36702.04983499618)
+[22:34:59] [Server thread/INFO]: lolzkinijntjes joined the game
+[22:35:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[22:35:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3920ms or 78 ticks behind
+[22:35:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[22:55:52] [Netty Server IO #4/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at zd.a(SourceFile:50) ~[server-1.21.5.jar:?]
+	at zd.encode(SourceFile:14) ~[server-1.21.5.jar:?]
+	at wj.a(SourceFile:26) ~[server-1.21.5.jar:?]
+	at wj.encode(SourceFile:12) ~[server-1.21.5.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at vv$2.write(SourceFile:530) ~[server-1.21.5.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at vv.c(SourceFile:350) ~[server-1.21.5.jar:?]
+	at vv.b(SourceFile:343) ~[server-1.21.5.jar:?]
+	at vv.a(SourceFile:325) ~[server-1.21.5.jar:?]
+	at vv.a(SourceFile:319) ~[server-1.21.5.jar:?]
+	at vv.exceptionCaught(SourceFile:170) ~[server-1.21.5.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.handleReadException(AbstractNioByteChannel.java:125) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:177) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:796) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:732) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:658) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+[23:01:27] [Server thread/INFO]: [lolzkinijntjes: Set the weather to clear]
+[23:55:41] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
+[23:55:41] [Server thread/INFO]: lolzkinijntjes left the game
+[23:55:46] [Server thread/INFO]: Stopping server
+[23:55:46] [Server thread/INFO]: Saving players
+[23:55:46] [Server thread/INFO]: Saving worlds
+[23:55:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:55:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:55:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:55:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:55:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:55:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:55:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
