@@ -1813,15 +1813,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_white_tulip": "2025-04-06 22:49:39 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-04-06 22:26:53 +0200"
+      "has_water_bucket": "2025-04-06 21:54:55 +0200"
     },
     "done": true
   },
@@ -1831,9 +1825,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/wind_charge": {
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
-      "has_breeze_rod": "2025-04-06 22:33:01 +0200"
+      "has_salmon": "2025-04-06 22:26:53 +0200"
     },
     "done": true
   },
@@ -1849,9 +1843,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
+  "minecraft:recipes/misc/wind_charge": {
     "criteria": {
-      "has_water_bucket": "2025-04-06 21:54:55 +0200"
+      "has_breeze_rod": "2025-04-06 22:33:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2025-04-06 22:33:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-04-06 22:49:39 +0200"
     },
     "done": true
   },
@@ -1861,9 +1867,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/mace": {
+  "minecraft:husbandry/leash_all_frog_variants": {
     "criteria": {
-      "has_breeze_rod": "2025-04-06 22:33:01 +0200"
+      "minecraft:warm": "2025-04-09 15:00:28 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/oxidized_chiseled_copper_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-04-09 16:06:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-04-09 16:06:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-04-09 16:06:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-04-09 16:06:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-04-09 16:06:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-04-09 16:06:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_trapdoor_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper_trapdoor": "2025-04-09 16:17:29 +0200"
     },
     "done": true
   },

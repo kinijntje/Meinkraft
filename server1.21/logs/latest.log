@@ -1,82 +1,91 @@
-[22:34:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:34:40] [ServerMain/INFO]: Loaded 1373 recipes
-[22:34:40] [ServerMain/INFO]: Loaded 1484 advancements
-[22:34:41] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[22:34:41] [Server thread/INFO]: Loading properties
-[22:34:41] [Server thread/INFO]: Default game type: SURVIVAL
-[22:34:41] [Server thread/INFO]: Generating keypair
-[22:34:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:34:41] [Server thread/INFO]: Using default channel type
-[22:34:41] [Server thread/INFO]: Preparing level "world"
-[22:34:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:34:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:34:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:34:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:34:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:34:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:34:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:34:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:34:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:34:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:34:47] [Server thread/INFO]: Time elapsed: 4609 ms
-[22:34:47] [Server thread/INFO]: Done (6.037s)! For help, type "help"
-[22:34:57] [User Authenticator #1/INFO]: UUID of player lolzkinijntjes is e9785d74-0ad7-49a5-89d8-5547d0c6ecd7
-[22:34:59] [Server thread/INFO]: lolzkinijntjes[/127.0.0.1:50688] logged in with entity id 78 at (-16817.027577883844, 214.16603645719363, -36702.04983499618)
-[22:34:59] [Server thread/INFO]: lolzkinijntjes joined the game
-[22:35:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
-[22:35:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3920ms or 78 ticks behind
-[22:35:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
-[22:55:52] [Netty Server IO #4/ERROR]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at zd.a(SourceFile:50) ~[server-1.21.5.jar:?]
-	at zd.encode(SourceFile:14) ~[server-1.21.5.jar:?]
-	at wj.a(SourceFile:26) ~[server-1.21.5.jar:?]
-	at wj.encode(SourceFile:12) ~[server-1.21.5.jar:?]
-	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at vv$2.write(SourceFile:530) ~[server-1.21.5.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at vv.c(SourceFile:350) ~[server-1.21.5.jar:?]
-	at vv.b(SourceFile:343) ~[server-1.21.5.jar:?]
-	at vv.a(SourceFile:325) ~[server-1.21.5.jar:?]
-	at vv.a(SourceFile:319) ~[server-1.21.5.jar:?]
-	at vv.exceptionCaught(SourceFile:170) ~[server-1.21.5.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.handleReadException(AbstractNioByteChannel.java:125) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:177) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:796) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:732) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:658) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
-	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
-[23:01:27] [Server thread/INFO]: [lolzkinijntjes: Set the weather to clear]
-[23:55:41] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[23:55:41] [Server thread/INFO]: lolzkinijntjes left the game
-[23:55:46] [Server thread/INFO]: Stopping server
-[23:55:46] [Server thread/INFO]: Saving players
-[23:55:46] [Server thread/INFO]: Saving worlds
-[23:55:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:55:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:55:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:55:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:55:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:55:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:55:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:22:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:22:20] [ServerMain/INFO]: Loaded 1373 recipes
+[12:22:20] [ServerMain/INFO]: Loaded 1484 advancements
+[12:22:21] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[12:22:21] [Server thread/INFO]: Loading properties
+[12:22:21] [Server thread/INFO]: Default game type: SURVIVAL
+[12:22:21] [Server thread/INFO]: Generating keypair
+[12:22:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:22:22] [Server thread/INFO]: Using default channel type
+[12:22:22] [Server thread/INFO]: Preparing level "world"
+[12:22:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:22:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:22:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:22:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:22:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:22:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:22:26] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[12:22:26] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[12:22:26] [Server thread/INFO]: Time elapsed: 3175 ms
+[12:22:26] [Server thread/INFO]: Done (4.127s)! For help, type "help"
+[12:23:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[13:45:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1353387ms or 27067 ticks behind
+[13:57:02] [User Authenticator #1/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
+[13:57:04] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:58823] logged in with entity id 77 at (-251324.50152198365, 63.074593086004874, -208989.60854677088)
+[13:57:04] [Server thread/INFO]: TotallyLucy126 joined the game
+[13:57:37] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[13:58:14] [Server thread/INFO]: [@: Teleported TotallyLucy126 to 2441.500000, 200.000000, -4606.500000]
+[13:58:24] [Server thread/INFO]: [@: Teleported TotallyLucy126 to 9400.500000, 100.000000, -514.500000]
+[14:09:00] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[14:13:39] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[14:13:39] [Server thread/INFO]: TotallyLucy126 left the game
+[14:14:01] [User Authenticator #2/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
+[14:14:02] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:54215] logged in with entity id 3224 at (9459.07487835641, 74.73747731158248, -559.6863997171924)
+[14:14:02] [Server thread/INFO]: TotallyLucy126 joined the game
+[14:19:49] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[14:56:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25444ms or 508 ticks behind
+[14:56:30] [Server thread/INFO]: TotallyLucy126 lost connection: Timed out
+[14:56:30] [Server thread/INFO]: TotallyLucy126 left the game
+[14:56:34] [User Authenticator #3/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
+[14:56:35] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:54475] logged in with entity id 9088 at (9433.074999988079, 75.41999998688698, -536.5440884629585)
+[14:56:35] [Server thread/INFO]: TotallyLucy126 joined the game
+[14:59:16] [User Authenticator #4/INFO]: UUID of player peeekoe is 9285be08-7af6-4823-be6c-65b24b027625
+[14:59:17] [Server thread/INFO]: peeekoe[/81.165.192.168:60036] logged in with entity id 9668 at (-251298.79566513185, 63.5, -208996.12600668112)
+[14:59:17] [Server thread/INFO]: peeekoe joined the game
+[15:11:00] [Server thread/INFO]: [peeekoe: Set the time to 0]
+[15:13:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[15:22:03] [Server thread/INFO]: [peeekoe: Set the time to 0]
+[15:36:45] [Server thread/INFO]: TotallyLucy126 lost connection: Timed out
+[15:36:45] [Server thread/INFO]: TotallyLucy126 left the game
+[15:37:10] [User Authenticator #5/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
+[15:37:10] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:54815] logged in with entity id 21068 at (9449.199999988079, 76.0436946138356, -554.214150673471)
+[15:37:10] [Server thread/INFO]: TotallyLucy126 joined the game
+[15:39:41] [Server thread/INFO]: [peeekoe: Set the time to 0]
+[15:53:46] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[16:05:29] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[16:14:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26819ms or 536 ticks behind
+[16:14:26] [Server thread/INFO]: TotallyLucy126 lost connection: Timed out
+[16:14:26] [Server thread/INFO]: TotallyLucy126 left the game
+[16:14:28] [Server thread/INFO]: peeekoe lost connection: Timed out
+[16:14:28] [Server thread/INFO]: peeekoe left the game
+[16:14:30] [User Authenticator #6/INFO]: UUID of player peeekoe is 9285be08-7af6-4823-be6c-65b24b027625
+[16:14:30] [Server thread/INFO]: peeekoe[/81.165.192.168:63478] logged in with entity id 31832 at (-251276.9700037985, 64.62940889779581, -208988.88531190678)
+[16:14:30] [Server thread/INFO]: peeekoe joined the game
+[16:14:32] [User Authenticator #7/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
+[16:14:32] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:61566] logged in with entity id 32089 at (9495.923718826862, 64.41999998688698, -579.4212453259157)
+[16:14:32] [Server thread/INFO]: TotallyLucy126 joined the game
+[16:16:27] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[16:16:27] [Server thread/INFO]: TotallyLucy126 left the game
+[16:17:24] [Server thread/INFO]: [peeekoe: Set the time to 0]
+[16:17:26] [User Authenticator #8/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
+[16:17:27] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:61817] logged in with entity id 32885 at (9491.132825068711, 70.90289997321449, -576.4593972579987)
+[16:17:27] [Server thread/INFO]: TotallyLucy126 joined the game
+[16:24:44] [Server thread/INFO]: [@: Teleported TotallyLucy126 to 2442.500000, 200.000000, -4605.500000]
+[16:24:49] [Server thread/INFO]: [@: Teleported TotallyLucy126 to -251404.500000, 63.500000, -208873.500000]
+[16:27:39] [Server thread/INFO]: peeekoe lost connection: Disconnected
+[16:27:39] [Server thread/INFO]: peeekoe left the game
+[16:27:44] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[16:27:44] [Server thread/INFO]: TotallyLucy126 left the game
+[16:28:44] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:32:43] [Server thread/INFO]: /151.115.75.240:61000 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (ajw) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[17:52:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1069388ms or 21387 ticks behind
+[17:52:22] [Server thread/INFO]: Stopping server
+[17:52:22] [Server thread/INFO]: Saving players
+[17:52:22] [Server thread/INFO]: Saving worlds
+[17:52:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:52:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:52:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:52:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:52:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:52:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:52:24] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
