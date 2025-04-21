@@ -9,14 +9,18 @@
     "criteria": {
       "minecraft:cold_ocean": "2023-12-06 22:31:58 +0100",
       "minecraft:snowy_slopes": "2023-12-07 23:40:03 +0100",
+      "minecraft:mushroom_fields": "2025-04-21 16:47:05 +0200",
       "minecraft:forest": "2023-11-10 00:08:43 +0100",
       "minecraft:taiga": "2023-11-26 21:43:58 +0100",
       "minecraft:deep_ocean": "2024-03-30 23:36:15 +0100",
       "minecraft:lush_caves": "2024-03-12 23:34:18 +0100",
+      "minecraft:deep_cold_ocean": "2025-04-21 16:40:36 +0200",
       "minecraft:frozen_ocean": "2023-11-26 21:44:51 +0100",
+      "minecraft:eroded_badlands": "2025-04-21 16:33:52 +0200",
       "minecraft:desert": "2024-03-30 22:13:44 +0100",
       "minecraft:frozen_river": "2023-11-26 21:38:32 +0100",
       "minecraft:windswept_forest": "2024-03-30 22:52:41 +0100",
+      "minecraft:ocean": "2025-04-21 16:42:43 +0200",
       "minecraft:cherry_grove": "2023-11-10 00:04:12 +0100",
       "minecraft:sunflower_plains": "2024-03-30 22:29:11 +0100",
       "minecraft:windswept_hills": "2023-11-26 21:41:28 +0100",
@@ -31,6 +35,7 @@
       "minecraft:stony_peaks": "2024-03-30 22:51:33 +0100",
       "minecraft:mangrove_swamp": "2024-03-30 22:46:37 +0100",
       "minecraft:river": "2023-11-09 19:08:40 +0100",
+      "minecraft:lukewarm_ocean": "2025-04-21 16:35:57 +0200",
       "minecraft:stony_shore": "2023-11-09 19:05:53 +0100",
       "minecraft:snowy_plains": "2023-11-26 21:38:34 +0100",
       "minecraft:dripstone_caves": "2023-11-10 00:09:31 +0100",
@@ -5679,6 +5684,60 @@
   "minecraft:recipes/decorations/pale_oak_sign": {
     "criteria": {
       "has_planks": "2025-04-07 23:52:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-04-21 16:49:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oxidized_copper_bulb": {
+    "criteria": {
+      "has_oxidized_copper": "2025-04-21 16:49:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2025-04-21 16:49:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_copper_grate": {
+    "criteria": {
+      "has_oxidized_copper": "2025-04-21 16:49:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
+    "criteria": {
+      "has_oxidized_copper": "2025-04-21 16:49:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-04-21 16:49:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_chiseled_copper_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-04-21 16:49:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_copper_grate_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-04-21 16:49:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-04-21 16:49:10 +0200"
     },
     "done": true
   },
