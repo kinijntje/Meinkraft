@@ -11,6 +11,7 @@
       "minecraft:snowy_slopes": "2023-12-07 23:39:52 +0100",
       "minecraft:forest": "2023-11-10 00:10:03 +0100",
       "minecraft:taiga": "2023-11-26 21:42:56 +0100",
+      "minecraft:deep_ocean": "2025-04-26 00:41:20 +0200",
       "minecraft:lush_caves": "2024-03-12 23:34:55 +0100",
       "minecraft:frozen_ocean": "2023-11-26 21:44:47 +0100",
       "minecraft:eroded_badlands": "2024-03-31 23:03:52 +0200",
@@ -5736,6 +5737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/bundle": {
+    "criteria": {
+      "has_string": "2025-04-24 14:08:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
       "has_blue_orchid": "2025-04-24 15:17:54 +0200"
@@ -5745,12 +5752,6 @@
   "minecraft:recipes/food/suspicious_stew_from_blue_orchid": {
     "criteria": {
       "has_blue_orchid": "2025-04-24 15:17:54 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/bundle": {
-    "criteria": {
-      "has_string": "2025-04-24 14:08:03 +0200"
     },
     "done": true
   },
