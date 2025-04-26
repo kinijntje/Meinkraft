@@ -1,66 +1,43 @@
-[00:22:19] [User Authenticator #2/INFO]: UUID of player lolzkinijntjes is e9785d74-0ad7-49a5-89d8-5547d0c6ecd7
-[00:22:19] [Server thread/INFO]: lolzkinijntjes[/127.0.0.1:59277] logged in with entity id 9541 at (3435.0109900642888, 34.0, -10215.355016145819)
-[00:22:19] [Server thread/INFO]: lolzkinijntjes joined the game
-[00:26:58] [Server thread/INFO]: [@: Teleported lolzkinijntjes to 2441.500000, 200.000000, -4606.500000]
-[00:27:09] [Server thread/INFO]: [@: Teleported lolzkinijntjes to 9400.500000, 100.000000, -514.500000]
-[00:31:31] [Netty Server IO #8/ERROR]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at zd.a(SourceFile:50) ~[server-1.21.5.jar:?]
-	at zd.encode(SourceFile:14) ~[server-1.21.5.jar:?]
-	at wj.a(SourceFile:26) ~[server-1.21.5.jar:?]
-	at wj.encode(SourceFile:12) ~[server-1.21.5.jar:?]
-	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at vv$2.write(SourceFile:530) ~[server-1.21.5.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at vv.c(SourceFile:350) ~[server-1.21.5.jar:?]
-	at vv.b(SourceFile:343) ~[server-1.21.5.jar:?]
-	at vv.a(SourceFile:325) ~[server-1.21.5.jar:?]
-	at vv.a(SourceFile:319) ~[server-1.21.5.jar:?]
-	at vv.exceptionCaught(SourceFile:170) ~[server-1.21.5.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.handleReadException(AbstractNioByteChannel.java:125) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:177) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:796) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:732) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:658) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
-	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
-[00:38:11] [Server thread/INFO]: [@: Teleported lolzkinijntjes to 2442.500000, 200.000000, -4605.500000]
-[00:38:21] [Server thread/INFO]: [@: Teleported lolzkinijntjes to 3433.500000, 34.000000, -10213.500000]
-[00:41:12] [Server thread/INFO]: [@: Teleported TotallyLucy126 to 2442.500000, 200.000000, -4605.500000]
-[00:41:20] [Server thread/INFO]: [@: Teleported TotallyLucy126 to 3433.500000, 34.000000, -10213.500000]
-[00:41:58] [Server thread/INFO]: [@: Teleported TotallyLucy126 to 2441.500000, 200.000000, -4606.500000]
-[00:42:05] [Server thread/INFO]: [@: Teleported TotallyLucy126 to 9400.500000, 100.000000, -514.500000]
-[01:10:32] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
-[01:10:32] [Server thread/INFO]: TotallyLucy126 left the game
-[01:16:55] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[01:16:55] [Server thread/INFO]: lolzkinijntjes left the game
-[01:17:01] [Server thread/INFO]: Stopping server
-[01:17:01] [Server thread/INFO]: Saving players
-[01:17:01] [Server thread/INFO]: Saving worlds
-[01:17:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:17:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:17:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:17:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:17:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:17:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:17:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:44:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:44:59] [ServerMain/INFO]: Loaded 1373 recipes
+[12:44:59] [ServerMain/INFO]: Loaded 1484 advancements
+[12:44:59] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[12:44:59] [Server thread/INFO]: Loading properties
+[12:44:59] [Server thread/INFO]: Default game type: SURVIVAL
+[12:44:59] [Server thread/INFO]: Generating keypair
+[12:44:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:44:59] [Server thread/INFO]: Using default channel type
+[12:44:59] [Server thread/INFO]: Preparing level "world"
+[12:45:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:45:00] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[12:45:00] [Server thread/INFO]: Time elapsed: 306 ms
+[12:45:00] [Server thread/INFO]: Done (0.939s)! For help, type "help"
+[12:46:00] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[13:15:30] [User Authenticator #1/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
+[13:15:31] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:50165] logged in with entity id 75 at (9403.462980348759, 71.0, -575.4063935751793)
+[13:15:31] [Server thread/INFO]: TotallyLucy126 joined the game
+[13:23:30] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[13:34:25] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[13:45:14] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[13:56:12] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[14:08:31] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[14:19:41] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[14:32:39] [Server thread/INFO]: [TotallyLucy126: Set the weather to clear]
+[14:32:42] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[14:43:48] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[15:15:10] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[15:46:24] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[15:46:25] [Server thread/INFO]: [TotallyLucy126: Set the weather to clear]
+[15:55:08] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[15:55:08] [Server thread/INFO]: TotallyLucy126 left the game
+[15:56:08] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:32:12] [Server thread/INFO]: Stopping server
+[17:32:12] [Server thread/INFO]: Saving players
+[17:32:12] [Server thread/INFO]: Saving worlds
+[17:32:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:32:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:32:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:32:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:32:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:32:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:32:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
