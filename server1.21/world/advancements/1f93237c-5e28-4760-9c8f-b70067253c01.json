@@ -26,6 +26,7 @@
       "minecraft:flower_forest": "2024-03-31 00:55:25 +0100",
       "minecraft:savanna_plateau": "2024-03-31 00:56:12 +0100",
       "minecraft:beach": "2024-03-31 00:58:17 +0100",
+      "minecraft:dark_forest": "2025-04-30 19:26:12 +0200",
       "minecraft:mangrove_swamp": "2024-03-31 00:57:29 +0100",
       "minecraft:river": "2023-11-10 00:05:31 +0100",
       "minecraft:stony_shore": "2023-11-10 00:02:56 +0100",
@@ -5848,6 +5849,18 @@
   "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
     "criteria": {
       "has_light_gray_terracotta": "2025-04-29 21:24:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_allium": {
+    "criteria": {
+      "has_allium": "2025-04-30 16:18:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-04-30 16:18:26 +0200"
     },
     "done": true
   },
