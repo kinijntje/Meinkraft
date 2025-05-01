@@ -1,127 +1,100 @@
-[14:16:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:16:01] [ServerMain/INFO]: Loaded 1373 recipes
-[14:16:01] [ServerMain/INFO]: Loaded 1484 advancements
-[14:16:01] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[14:16:01] [Server thread/INFO]: Loading properties
-[14:16:01] [Server thread/INFO]: Default game type: SURVIVAL
-[14:16:01] [Server thread/INFO]: Generating keypair
-[14:16:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:16:01] [Server thread/INFO]: Using default channel type
-[14:16:01] [Server thread/INFO]: Preparing level "world"
-[14:16:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:16:02] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[14:16:02] [Server thread/INFO]: Time elapsed: 451 ms
-[14:16:02] [Server thread/INFO]: Done (0.884s)! For help, type "help"
-[14:17:02] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[14:54:38] [User Authenticator #1/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
-[14:54:39] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:55725] logged in with entity id 75 at (9496.361879509404, 64.68060377285926, -722.3216811310092)
-[14:54:40] [Server thread/INFO]: TotallyLucy126 joined the game
-[14:55:28] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
-[15:06:30] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
-[15:17:02] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
-[15:18:22] [Netty Server IO #6/ERROR]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at zd.a(SourceFile:50) ~[server-1.21.5.jar:?]
-	at zd.encode(SourceFile:14) ~[server-1.21.5.jar:?]
-	at wj.a(SourceFile:26) ~[server-1.21.5.jar:?]
-	at wj.encode(SourceFile:12) ~[server-1.21.5.jar:?]
-	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at vv$2.write(SourceFile:530) ~[server-1.21.5.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at vv.c(SourceFile:350) ~[server-1.21.5.jar:?]
-	at vv.b(SourceFile:343) ~[server-1.21.5.jar:?]
-	at vv.a(SourceFile:325) ~[server-1.21.5.jar:?]
-	at vv.a(SourceFile:319) ~[server-1.21.5.jar:?]
-	at vv.exceptionCaught(SourceFile:170) ~[server-1.21.5.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.handleReadException(AbstractNioByteChannel.java:125) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:177) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:796) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:732) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:658) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
-	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
-[15:24:05] [User Authenticator #2/INFO]: UUID of player lolzkinijntjes is e9785d74-0ad7-49a5-89d8-5547d0c6ecd7
-[15:24:05] [Server thread/INFO]: lolzkinijntjes[/127.0.0.1:57458] logged in with entity id 5823 at (3431.576787074136, 34.0, -10230.486039704407)
-[15:24:05] [Server thread/INFO]: lolzkinijntjes joined the game
-[15:24:15] [Server thread/INFO]: <TotallyLucy126> oii
-[15:24:19] [Server thread/INFO]: <lolzkinijntjes> OIOI
-[15:24:28] [Server thread/INFO]: <TotallyLucy126> cant chat on discord want ik zit buiten
-[15:24:36] [Server thread/INFO]: <lolzkinijntjes> wth
-[15:24:38] [Server thread/INFO]: <TotallyLucy126> and it quite noisy out here
-[15:24:53] [Server thread/INFO]: <lolzkinijntjes> deze crazy bitch ga buiten xd
-[15:24:56] [Server thread/INFO]: <lolzkinijntjes> couldnt be me
-[15:24:57] [Server thread/INFO]: <TotallyLucy126> neighbours are blasting the greatest showman
-[15:25:07] [Server thread/INFO]: <TotallyLucy126> over the speakers
-[15:25:15] [Server thread/INFO]: <lolzkinijntjes> omg, groetjes aan de neighbours i guess
-[15:25:19] [Server thread/INFO]: <lolzkinijntjes> goeie keuze
-[15:25:27] [Server thread/INFO]: <TotallyLucy126> iknox
-[15:25:35] [Server thread/INFO]: <lolzkinijntjes> das def een vibe tho
-[15:35:02] [Server thread/INFO]: [lolzkinijntjes: Successfully filled 396 block(s)]
-[15:45:08] [Server thread/INFO]: <TotallyLucy126> ait imma do a tea break be back soon
-[15:49:13] [Server thread/INFO]: <lolzkinijntjes> same xd
-[15:49:19] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[15:49:19] [Server thread/INFO]: lolzkinijntjes left the game
-[15:49:24] [User Authenticator #3/INFO]: UUID of player lolzkinijntjes is e9785d74-0ad7-49a5-89d8-5547d0c6ecd7
-[15:49:24] [Server thread/INFO]: lolzkinijntjes[/127.0.0.1:58118] logged in with entity id 17705 at (3432.912863139456, 71.37006208629825, -10222.550769046446)
-[15:49:24] [Server thread/INFO]: lolzkinijntjes joined the game
-[15:58:31] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
-[15:58:31] [Server thread/INFO]: TotallyLucy126 left the game
-[16:14:46] [Server thread/INFO]: [@: Teleported lolzkinijntjes to 2441.500000, 200.000000, -4606.500000]
-[16:14:55] [Server thread/INFO]: [@: Teleported lolzkinijntjes to 9400.500000, 100.000000, -514.500000]
-[16:15:28] [Server thread/INFO]: [@: Teleported lolzkinijntjes to 2442.500000, 200.000000, -4605.500000]
-[16:15:34] [Server thread/INFO]: [@: Teleported lolzkinijntjes to -16984.460000, 71.000000, -36500.200000]
-[16:18:14] [Server thread/INFO]: [@: Teleported lolzkinijntjes to 2441.500000, 200.000000, -4606.500000]
-[16:18:20] [Server thread/INFO]: [@: Teleported lolzkinijntjes to -1953.500000, 70.000000, -3653.500000]
-[16:21:46] [Server thread/INFO]: [@: Teleported lolzkinijntjes to 2441.500000, 200.000000, -4606.500000]
-[16:21:52] [Server thread/INFO]: [@: Teleported lolzkinijntjes to -16984.460000, 71.000000, -36500.200000]
-[16:28:55] [Server thread/INFO]: [lolzkinijntjes: Set the time to 1000]
-[16:33:36] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[16:33:36] [Server thread/INFO]: lolzkinijntjes left the game
-[16:33:53] [User Authenticator #4/INFO]: UUID of player lolzkinijntjes is e9785d74-0ad7-49a5-89d8-5547d0c6ecd7
-[16:33:53] [Server thread/INFO]: lolzkinijntjes[/127.0.0.1:59338] logged in with entity id 29904 at (-17038.417493286983, 126.6950660671307, -36752.95205908463)
-[16:33:53] [Server thread/INFO]: lolzkinijntjes joined the game
-[16:40:11] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[16:40:11] [Server thread/INFO]: lolzkinijntjes left the game
-[16:41:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[16:52:30] [User Authenticator #5/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
-[16:52:30] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:55434] logged in with entity id 31738 at (9465.481394199338, 63.0, -727.0909132851489)
-[16:52:30] [Server thread/INFO]: TotallyLucy126 joined the game
-[17:30:21] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
-[17:50:12] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
-[17:50:12] [Server thread/INFO]: TotallyLucy126 left the game
-[17:51:12] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[19:03:51] [User Authenticator #6/INFO]: UUID of player lolzkinijntjes is e9785d74-0ad7-49a5-89d8-5547d0c6ecd7
-[19:03:51] [Server thread/INFO]: lolzkinijntjes[/127.0.0.1:64284] logged in with entity id 43350 at (-17040.252624150235, 126.43578615731464, -36746.76305115294)
-[19:03:51] [Server thread/INFO]: lolzkinijntjes joined the game
-[19:13:03] [Server thread/INFO]: lolzkinijntjes lost connection: Disconnected
-[19:13:03] [Server thread/INFO]: lolzkinijntjes left the game
-[19:13:06] [Server thread/INFO]: Stopping server
-[19:13:06] [Server thread/INFO]: Saving players
-[19:13:06] [Server thread/INFO]: Saving worlds
-[19:13:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:13:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:13:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:13:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:13:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:13:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:13:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:49:21] [Server thread/INFO]: /advancement (grant|revoke)
+[00:49:21] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[00:49:21] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[00:49:21] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[00:49:21] [Server thread/INFO]: /clear [<targets>]
+[00:49:21] [Server thread/INFO]: /clone (<begin>|from)
+[00:49:21] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
+[00:49:21] [Server thread/INFO]: /data (merge|get|remove|modify)
+[00:49:21] [Server thread/INFO]: /datapack (enable|disable|list)
+[00:49:21] [Server thread/INFO]: /debug (start|stop|function)
+[00:49:21] [Server thread/INFO]: /defaultgamemode <gamemode>
+[00:49:21] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[00:49:21] [Server thread/INFO]: /effect (clear|give)
+[00:49:21] [Server thread/INFO]: /me <action>
+[00:49:21] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[00:49:21] [Server thread/INFO]: /experience (add|set|query)
+[00:49:21] [Server thread/INFO]: /xp -> experience
+[00:49:21] [Server thread/INFO]: /fill <from> <to> <block> [outline|hollow|destroy|strict|replace|keep]
+[00:49:21] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
+[00:49:21] [Server thread/INFO]: /forceload (add|remove|query)
+[00:49:21] [Server thread/INFO]: /function <name> [<arguments>|with]
+[00:49:21] [Server thread/INFO]: /gamemode <gamemode> [<target>]
+[00:49:21] [Server thread/INFO]: /gamerule (allowFireTicksAwayFromPlayer|announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disablePlayerMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnChunkRadius|spawnRadius|spectatorsGenerateChunks|tntExplodes|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[00:49:21] [Server thread/INFO]: /give <targets> <item> [<count>]
+[00:49:21] [Server thread/INFO]: /help [<command>]
+[00:49:21] [Server thread/INFO]: /item (replace|modify)
+[00:49:21] [Server thread/INFO]: /kick <targets> [<reason>]
+[00:49:21] [Server thread/INFO]: /kill [<targets>]
+[00:49:21] [Server thread/INFO]: /list [uuids]
+[00:49:21] [Server thread/INFO]: /locate (structure|biome|poi)
+[00:49:21] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[00:49:21] [Server thread/INFO]: /msg <targets> <message>
+[00:49:21] [Server thread/INFO]: /tell -> msg
+[00:49:21] [Server thread/INFO]: /w -> msg
+[00:49:21] [Server thread/INFO]: /particle <name> [<pos>]
+[00:49:21] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
+[00:49:21] [Server thread/INFO]: /playsound <sound> [master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[00:49:21] [Server thread/INFO]: /random (value|roll|reset)
+[00:49:21] [Server thread/INFO]: /reload
+[00:49:21] [Server thread/INFO]: /recipe (give|take)
+[00:49:21] [Server thread/INFO]: /return (<value>|fail|run)
+[00:49:21] [Server thread/INFO]: /ride <target> (mount|dismount)
+[00:49:21] [Server thread/INFO]: /rotate <target> (<rotation>|facing)
+[00:49:21] [Server thread/INFO]: /say <message>
+[00:49:21] [Server thread/INFO]: /schedule (function|clear)
+[00:49:21] [Server thread/INFO]: /scoreboard (objectives|players)
+[00:49:21] [Server thread/INFO]: /seed
+[00:49:21] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace|strict]
+[00:49:21] [Server thread/INFO]: /spawnpoint [<targets>]
+[00:49:21] [Server thread/INFO]: /setworldspawn [<pos>]
+[00:49:21] [Server thread/INFO]: /spectate [<target>]
+[00:49:21] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[00:49:21] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[00:49:21] [Server thread/INFO]: /summon <entity> [<pos>]
+[00:49:21] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[00:49:21] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[00:49:21] [Server thread/INFO]: /teammsg <message>
+[00:49:21] [Server thread/INFO]: /tm -> teammsg
+[00:49:21] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[00:49:21] [Server thread/INFO]: /tp -> teleport
+[00:49:21] [Server thread/INFO]: /tellraw <targets> <message>
+[00:49:21] [Server thread/INFO]: /test (run|runmultiple|runthese|runclosest|runthat|runfailed|verify|locate|resetclosest|resetthese|resetthat|clearthat|clearthese|clearall|stop|pos|create)
+[00:49:21] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
+[00:49:21] [Server thread/INFO]: /time (set|add|query)
+[00:49:21] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[00:49:21] [Server thread/INFO]: /trigger <objective> [add|set]
+[00:49:21] [Server thread/INFO]: /weather (clear|rain|thunder)
+[00:49:21] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[00:49:21] [Server thread/INFO]: /jfr (start|stop)
+[00:49:21] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[00:49:21] [Server thread/INFO]: /banlist [ips|players]
+[00:49:21] [Server thread/INFO]: /ban <targets> [<reason>]
+[00:49:21] [Server thread/INFO]: /deop <targets>
+[00:49:21] [Server thread/INFO]: /op <targets>
+[00:49:21] [Server thread/INFO]: /pardon <targets>
+[00:49:21] [Server thread/INFO]: /pardon-ip <target>
+[00:49:21] [Server thread/INFO]: /perf (start|stop)
+[00:49:21] [Server thread/INFO]: /save-all [flush]
+[00:49:21] [Server thread/INFO]: /save-off
+[00:49:21] [Server thread/INFO]: /save-on
+[00:49:21] [Server thread/INFO]: /setidletimeout <minutes>
+[00:49:21] [Server thread/INFO]: /stop
+[00:49:21] [Server thread/INFO]: /transfer <hostname> [<port>]
+[00:49:21] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[00:49:42] [Server thread/INFO]: You whisper to TotallyLucy126: heyhey ik ga dan bijna men pc afsluiten
+[00:49:49] [Server thread/INFO]: <TotallyLucy126> aittt
+[00:49:56] [Server thread/INFO]: <TotallyLucy126> sleepy timee
+[00:49:58] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[00:49:58] [Server thread/INFO]: TotallyLucy126 left the game
+[00:50:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:51:56] [Server thread/INFO]: Stopping server
+[00:51:56] [Server thread/INFO]: Saving players
+[00:51:56] [Server thread/INFO]: Saving worlds
+[00:51:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:51:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:51:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:51:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:51:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:51:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:51:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
