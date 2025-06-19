@@ -1,50 +1,10 @@
-[20:24:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:24:31] [ServerMain/INFO]: Loaded 1407 recipes
-[20:24:31] [ServerMain/INFO]: Loaded 1520 advancements
-[20:24:32] [Server thread/INFO]: Starting minecraft server version 1.21.6
-[20:24:32] [Server thread/INFO]: Loading properties
-[20:24:32] [Server thread/INFO]: Default game type: SURVIVAL
-[20:24:32] [Server thread/INFO]: Generating keypair
-[20:24:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:24:32] [Server thread/INFO]: Using default channel type
-[20:24:32] [Server thread/INFO]: Preparing level "world"
-[20:24:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:24:33] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[20:24:33] [Server thread/INFO]: Time elapsed: 518 ms
-[20:24:33] [Server thread/INFO]: Done (1.114s)! For help, type "help"
-[20:25:33] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[20:26:11] [User Authenticator #1/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
-[20:26:12] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_brown_carpet' in progress file .\world\advancements\1f93237c-5e28-4760-9c8f-b70067253c01.json - it doesn't exist anymore?
-[20:26:12] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_brown_bed' in progress file .\world\advancements\1f93237c-5e28-4760-9c8f-b70067253c01.json - it doesn't exist anymore?
-[20:26:12] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_gray_carpet' in progress file .\world\advancements\1f93237c-5e28-4760-9c8f-b70067253c01.json - it doesn't exist anymore?
-[20:26:12] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_gray_bed' in progress file .\world\advancements\1f93237c-5e28-4760-9c8f-b70067253c01.json - it doesn't exist anymore?
-[20:26:12] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_light_gray_bed' in progress file .\world\advancements\1f93237c-5e28-4760-9c8f-b70067253c01.json - it doesn't exist anymore?
-[20:26:12] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_light_gray_carpet' in progress file .\world\advancements\1f93237c-5e28-4760-9c8f-b70067253c01.json - it doesn't exist anymore?
-[20:26:12] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_white_carpet' in progress file .\world\advancements\1f93237c-5e28-4760-9c8f-b70067253c01.json - it doesn't exist anymore?
-[20:26:12] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_white_bed' in progress file .\world\advancements\1f93237c-5e28-4760-9c8f-b70067253c01.json - it doesn't exist anymore?
-[20:26:12] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_green_carpet' in progress file .\world\advancements\1f93237c-5e28-4760-9c8f-b70067253c01.json - it doesn't exist anymore?
-[20:26:12] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_green_bed' in progress file .\world\advancements\1f93237c-5e28-4760-9c8f-b70067253c01.json - it doesn't exist anymore?
-[20:26:12] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:50136] logged in with entity id 77 at (9415.48726876402, 84.39000707089855, -704.7015335490491)
-[20:26:12] [Server thread/INFO]: TotallyLucy126 joined the game
-[20:28:27] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
-[20:56:21] [Server thread/INFO]: [TotallyLucy126: Successfully cloned 1859 block(s)]
-[20:57:00] [Server thread/INFO]: [TotallyLucy126: Successfully filled 515 block(s)]
-[20:57:14] [Server thread/INFO]: [TotallyLucy126: Successfully cloned 1859 block(s)]
-[20:57:39] [Server thread/INFO]: [TotallyLucy126: Successfully filled 515 block(s)]
-[20:57:48] [Server thread/INFO]: [TotallyLucy126: Successfully cloned 1859 block(s)]
-[20:59:33] [Server thread/INFO]: [TotallyLucy126: Successfully filled 515 block(s)]
-[21:39:28] [Server thread/INFO]: [TotallyLucy126: Successfully filled 102 block(s)]
-[21:39:38] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
-[21:54:31] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
-[21:54:31] [Server thread/INFO]: TotallyLucy126 left the game
-[21:55:31] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[22:41:56] [Server thread/INFO]: Stopping server
-[22:41:56] [Server thread/INFO]: Saving players
-[22:41:56] [Server thread/INFO]: Saving worlds
-[22:41:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:41:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:41:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:41:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:41:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:41:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:41:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:01:04] [Server thread/INFO]: Stopping server
+[00:01:04] [Server thread/INFO]: Saving players
+[00:01:04] [Server thread/INFO]: Saving worlds
+[00:01:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:01:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:01:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:01:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:01:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:01:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:01:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

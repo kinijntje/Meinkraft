@@ -19,6 +19,7 @@
       "minecraft:frozen_river": "2023-11-26 21:38:37 +0100",
       "minecraft:cherry_grove": "2023-11-10 00:04:45 +0100",
       "minecraft:sunflower_plains": "2024-03-31 00:51:49 +0100",
+      "minecraft:birch_forest": "2025-06-19 21:25:34 +0200",
       "minecraft:windswept_hills": "2023-11-26 21:41:52 +0100",
       "minecraft:warm_ocean": "2024-03-31 00:47:42 +0100",
       "minecraft:deep_lukewarm_ocean": "2023-12-07 23:44:50 +0100",
@@ -5981,6 +5982,18 @@
   "minecraft:recipes/building_blocks/waxed_chiseled_copper": {
     "criteria": {
       "has_waxed_cut_copper_slab": "2025-05-30 23:58:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-19 23:12:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_string": "2025-06-19 23:01:09 +0200"
     },
     "done": true
   },
