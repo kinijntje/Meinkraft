@@ -1,10 +1,27 @@
-[00:01:04] [Server thread/INFO]: Stopping server
-[00:01:04] [Server thread/INFO]: Saving players
-[00:01:04] [Server thread/INFO]: Saving worlds
-[00:01:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:01:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:01:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:01:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:01:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:01:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:01:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:11:59] [User Authenticator #1/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
+[00:12:01] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:63812] logged in with entity id 76 at (-64908.06032625953, 81.44974929915227, -37821.162641374365)
+[00:12:01] [Server thread/INFO]: TotallyLucy126 joined the game
+[00:22:07] [Server thread/INFO]: [TotallyLucy126: Successfully filled 304 block(s)]
+[00:35:35] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[00:49:58] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[01:01:06] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[01:17:53] [Server thread/INFO]: [TotallyLucy126: Set the time to 0]
+[01:21:21] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[01:21:21] [Server thread/INFO]: TotallyLucy126 left the game
+[01:21:25] [User Authenticator #2/INFO]: UUID of player TotallyLucy126 is 1f93237c-5e28-4760-9c8f-b70067253c01
+[01:21:26] [Server thread/INFO]: TotallyLucy126[/81.165.192.168:64193] logged in with entity id 9464 at (-64905.51258139567, 94.79626873334746, -37832.30000001192)
+[01:21:26] [Server thread/INFO]: TotallyLucy126 joined the game
+[01:24:30] [Server thread/INFO]: You whisper to TotallyLucy126: yo imma shleep soon
+[01:25:23] [Server thread/INFO]: TotallyLucy126 lost connection: Disconnected
+[01:25:23] [Server thread/INFO]: TotallyLucy126 left the game
+[01:26:23] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:27:16] [Server thread/INFO]: Stopping server
+[01:27:16] [Server thread/INFO]: Saving players
+[01:27:16] [Server thread/INFO]: Saving worlds
+[01:27:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:27:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:27:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:27:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:27:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:27:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:27:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
